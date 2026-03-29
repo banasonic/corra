@@ -40,7 +40,7 @@ def scrape_kooora_matches(url):
     return matches_list
 
 if __name__ == '__main__':
-    kooora_url = "https://www.kooora.com/%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85"
+    kooora_url = "https://www.kooora.com/"
     matches = scrape_kooora_matches(kooora_url)
     if isinstance(matches, str):
         print(matches)
