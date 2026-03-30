@@ -1,6 +1,6 @@
 {
   "source": "https://www.kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_utc": "2026-03-30T19:40:44.177485+00:00",
+  "fetched_at_utc": "2026-03-30T20:25:34.221511+00:00",
   "groups_count": 17,
   "matches_count": 41,
   "matches": [
@@ -309,7 +309,7 @@
     {
       "status": "RESULT",
       "start_date_utc": "2026-03-30T17:30:00.000Z",
-      "last_updated_at": "2026-03-30T19:23:44.000Z",
+      "last_updated_at": "2026-03-30T20:16:04.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -339,7 +339,7 @@
     {
       "status": "LIVE",
       "start_date_utc": "2026-03-30T18:45:00.000Z",
-      "last_updated_at": "2026-03-30T19:36:50.000Z",
+      "last_updated_at": "2026-03-30T20:19:21.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -359,7 +359,7 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 0
+        "team_b": 1
       },
       "aggregate_score": null,
       "tv_channels": [
@@ -507,7 +507,7 @@
     {
       "status": "LIVE",
       "start_date_utc": "2026-03-30T19:00:00.000Z",
-      "last_updated_at": "2026-03-30T19:04:32.000Z",
+      "last_updated_at": "2026-03-30T20:10:42.000Z",
       "competition": {
         "name": "دوري الدرجة الثالثة الأرجنتيني",
         "country_or_area": "الأرجنتين",
@@ -527,7 +527,7 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 0
+        "team_b": 1
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -537,7 +537,7 @@
     {
       "status": "LIVE",
       "start_date_utc": "2026-03-30T19:00:00.000Z",
-      "last_updated_at": "2026-03-30T19:38:29.000Z",
+      "last_updated_at": "2026-03-30T20:14:43.000Z",
       "competition": {
         "name": "دوري الدرجة الثانية الأرجنتيني",
         "country_or_area": "الأرجنتين",
@@ -557,7 +557,7 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 0
+        "team_b": 1
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -625,9 +625,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ماجالانيس-ضد-رينجرز/D3eiW1RVVV1ivF7Y7mjkY"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-30T20:00:00.000Z",
-      "last_updated_at": "2026-01-23T07:36:30.000Z",
+      "last_updated_at": "2026-03-30T20:00:23.000Z",
       "competition": {
         "name": "الدوري الكولومبي الدرجة الثانية",
         "country_or_area": "كولومبيا",
@@ -646,8 +646,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fPvxQ14B0GXJxijHkoTXZ.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -687,7 +687,7 @@
     {
       "status": "LIVE",
       "start_date_utc": "2026-03-30T18:45:00.000Z",
-      "last_updated_at": "2026-03-30T19:37:29.000Z",
+      "last_updated_at": "2026-03-30T19:54:06.000Z",
       "competition": {
         "name": "الدوري الإنجليزي الدرجة الخامسة",
         "country_or_area": "إنجلترا",
@@ -717,9 +717,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/تشيلمسفورد-ضد-توتين/ogP3brWxvDE0VrO9Bu4eP"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T18:00:00.000Z",
-      "last_updated_at": "2026-03-30T19:33:05.000Z",
+      "last_updated_at": "2026-03-30T20:06:48.000Z",
       "competition": {
         "name": "الدوري الاحتياطي الممتاز 1",
         "country_or_area": "إنجلترا",
@@ -1051,7 +1051,7 @@
     {
       "status": "LIVE",
       "start_date_utc": "2026-03-30T18:30:00.000Z",
-      "last_updated_at": "2026-03-30T19:23:18.000Z",
+      "last_updated_at": "2026-03-30T20:23:47.000Z",
       "competition": {
         "name": "دوري نجوم العراق",
         "country_or_area": "العراق",
@@ -1070,8 +1070,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ZvoO5asogSK3boEXM7lRn.png"
       },
       "score": {
-        "team_a": 1,
-        "team_b": 0
+        "team_a": 2,
+        "team_b": 2
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -1169,9 +1169,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ليبيرتاد-ضد-ريكوليتا/oiU1yZrDqIglNeFVZawWB"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T18:00:00.000Z",
-      "last_updated_at": "2026-03-30T19:39:57.000Z",
+      "last_updated_at": "2026-03-30T20:14:55.000Z",
       "competition": {
         "name": "دوري أوروجواي الممتاز",
         "country_or_area": "أورغواي",
@@ -1191,7 +1191,7 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 0
+        "team_b": 2
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -1200,8 +1200,8 @@
     },
     {
       "status": "FIXTURE",
-      "start_date_utc": "2026-03-30T21:00:00.000Z",
-      "last_updated_at": "2026-03-12T15:59:25.000Z",
+      "start_date_utc": "2026-03-30T23:30:00.000Z",
+      "last_updated_at": "2026-03-30T20:20:30.000Z",
       "competition": {
         "name": "دوري أوروجواي الممتاز",
         "country_or_area": "أورغواي",
