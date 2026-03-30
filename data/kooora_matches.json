@@ -1,6 +1,6 @@
 {
   "source": "https://www.kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_utc": "2026-03-30T16:38:19.187232+00:00",
+  "fetched_at_utc": "2026-03-30T17:35:21.975609+00:00",
   "groups_count": 17,
   "matches_count": 41,
   "matches": [
@@ -326,9 +326,9 @@
     },
     {
       "match_id": "2-FNivydg8hWP7sGB2IF2",
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T15:00:00.000Z",
-      "last_updated_at": "2026-03-30T16:35:15.000Z",
+      "last_updated_at": "2026-03-30T17:22:31.000Z",
       "competition": {
         "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
@@ -358,7 +358,10 @@
         "team_b": 0
       },
       "aggregate_score": null,
-      "penalty_score": null,
+      "penalty_score": {
+        "teamA": 9,
+        "teamB": 8
+      },
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/أذربيجان-ضد-سيراليون/2-FNivydg8hWP7sGB2IF2"
@@ -367,7 +370,7 @@
       "match_id": "e76MgiyCOKba9GZADG1iq",
       "status": "LIVE",
       "start_date_utc": "2026-03-30T16:00:00.000Z",
-      "last_updated_at": "2026-03-30T16:32:11.000Z",
+      "last_updated_at": "2026-03-30T17:11:55.000Z",
       "competition": {
         "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
@@ -389,8 +392,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Ed_wex1s3JDNl6Wzl9qqk.png"
       },
       "score": {
-        "team_a": 2,
-        "team_b": 0
+        "team_a": 3,
+        "team_b": 1
       },
       "red_cards": {
         "team_a": 0,
@@ -420,9 +423,9 @@
     },
     {
       "match_id": "6l21oD3aIbnsBBSzUy-IG",
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-30T17:30:00.000Z",
-      "last_updated_at": "2026-03-29T15:09:24.000Z",
+      "last_updated_at": "2026-03-30T17:32:56.000Z",
       "competition": {
         "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
@@ -444,8 +447,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KrlynJqwlOEmzrfWKFUlw.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "red_cards": {
         "team_a": 0,
@@ -516,9 +519,9 @@
     },
     {
       "match_id": "NDixet-DkeVwp0saR2Etm",
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T15:00:00.000Z",
-      "last_updated_at": "2026-03-30T16:06:28.000Z",
+      "last_updated_at": "2026-03-30T16:59:03.000Z",
       "competition": {
         "id": "2ty8ihceabty8yddmu31iuuej",
         "name": "الدوري الكولومبي",
@@ -990,7 +993,7 @@
       "match_id": "XGmGUFXKk11jLM7bSoigD",
       "status": "LIVE",
       "start_date_utc": "2026-03-30T16:00:00.000Z",
-      "last_updated_at": "2026-03-30T16:10:00.000Z",
+      "last_updated_at": "2026-03-30T17:13:27.000Z",
       "competition": {
         "id": "2z7257m7hj58zuxcjrsg4erzc",
         "name": "الدوري الألماني لكرة القدم للسيدات",
@@ -1012,8 +1015,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CEAPJNPSO8c1B2yCmf6qW.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 1
+        "team_a": 1,
+        "team_b": 2
       },
       "red_cards": {
         "team_a": 0,
@@ -1027,9 +1030,9 @@
     },
     {
       "match_id": "YxSnGD3xigIu3ZlHp9gLq",
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-30T17:00:00.000Z",
-      "last_updated_at": "2026-03-13T11:27:32.000Z",
+      "last_updated_at": "2026-03-30T17:29:31.000Z",
       "competition": {
         "id": "ZNcRhX6VgVS_fyqtvT9nQ",
         "name": "التصفيات المؤهلة لأمم أوروبا للشباب",
@@ -1051,8 +1054,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hwIA4QG08kavxigTopYHQ.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 1
       },
       "red_cards": {
         "team_a": 0,
@@ -1300,9 +1303,9 @@
     },
     {
       "match_id": "gUGhKPYJNRfpprt1mey20",
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T14:30:00.000Z",
-      "last_updated_at": "2026-03-30T16:13:45.000Z",
+      "last_updated_at": "2026-03-30T16:41:26.000Z",
       "competition": {
         "id": "duuc1qczfnawwncru1ly6o66",
         "name": "دوري نجوم العراق",
@@ -1339,9 +1342,9 @@
     },
     {
       "match_id": "re8aDH5KjwtjE1cKyczcY",
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T14:30:00.000Z",
-      "last_updated_at": "2026-03-30T15:59:18.000Z",
+      "last_updated_at": "2026-03-30T16:39:11.000Z",
       "competition": {
         "id": "duuc1qczfnawwncru1ly6o66",
         "name": "دوري نجوم العراق",
