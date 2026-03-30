@@ -1,6 +1,6 @@
 {
   "source": "https://www.kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_utc": "2026-03-30T22:33:29.981612+00:00",
+  "fetched_at_utc": "2026-03-30T23:19:31.232720+00:00",
   "groups_count": 17,
   "matches_count": 41,
   "matches": [
@@ -399,9 +399,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/لايانيروس-ضد-أونسي-كالداس/NDixet-DkeVwp0saR2Etm"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-30T23:10:00.000Z",
-      "last_updated_at": "2026-03-30T22:22:54.000Z",
+      "last_updated_at": "2026-03-30T23:11:49.000Z",
       "competition": {
         "name": "الدوري الكولومبي",
         "country_or_area": "كولومبيا",
@@ -420,8 +420,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bLghIzXWDV39hXthzBUp5.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -551,7 +551,7 @@
     {
       "status": "LIVE",
       "start_date_utc": "2026-03-30T21:30:00.000Z",
-      "last_updated_at": "2026-03-30T22:20:51.000Z",
+      "last_updated_at": "2026-03-30T22:39:54.000Z",
       "competition": {
         "name": "دوري الشمال البرازيلي",
         "country_or_area": "البرازيل",
@@ -579,9 +579,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/جاكوبينس-ضد-أميركا-آر-إن/KFj_heiNAIrWZflXTWZAt"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T21:00:00.000Z",
-      "last_updated_at": "2026-03-30T22:04:20.000Z",
+      "last_updated_at": "2026-03-30T22:55:40.000Z",
       "competition": {
         "name": "دوري تشيلي الدرجة الثانية",
         "country_or_area": "تشيلي",
@@ -1185,7 +1185,7 @@
     {
       "status": "FIXTURE",
       "start_date_utc": "2026-03-30T23:30:00.000Z",
-      "last_updated_at": "2026-03-30T20:20:30.000Z",
+      "last_updated_at": "2026-03-30T22:47:27.000Z",
       "competition": {
         "name": "دوري أوروجواي الممتاز",
         "country_or_area": "أورغواي",
