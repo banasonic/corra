@@ -1,6 +1,6 @@
 {
   "source": "https://www.kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_utc": "2026-03-30T18:22:09.185510+00:00",
+  "fetched_at_utc": "2026-03-30T18:38:09.449458+00:00",
   "groups_count": 17,
   "matches_count": 41,
   "matches": [
@@ -309,7 +309,7 @@
     {
       "status": "LIVE",
       "start_date_utc": "2026-03-30T17:30:00.000Z",
-      "last_updated_at": "2026-03-30T18:17:32.000Z",
+      "last_updated_at": "2026-03-30T18:33:32.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -339,7 +339,7 @@
     {
       "status": "FIXTURE",
       "start_date_utc": "2026-03-30T18:45:00.000Z",
-      "last_updated_at": "2026-03-30T18:20:14.000Z",
+      "last_updated_at": "2026-03-30T18:24:35.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -719,7 +719,7 @@
     {
       "status": "LIVE",
       "start_date_utc": "2026-03-30T18:00:00.000Z",
-      "last_updated_at": "2026-03-30T18:06:29.000Z",
+      "last_updated_at": "2026-03-30T18:26:48.000Z",
       "competition": {
         "name": "الدوري الاحتياطي الممتاز 1",
         "country_or_area": "إنجلترا",
@@ -739,7 +739,7 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 0
+        "team_b": 1
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -1049,9 +1049,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/دهوك-ضد-زاخو/re8aDH5KjwtjE1cKyczcY"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-30T18:30:00.000Z",
-      "last_updated_at": "2026-03-26T12:58:16.000Z",
+      "last_updated_at": "2026-03-30T18:34:00.000Z",
       "competition": {
         "name": "دوري نجوم العراق",
         "country_or_area": "العراق",
@@ -1070,8 +1070,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ZvoO5asogSK3boEXM7lRn.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -1079,9 +1079,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/بغداد-إف-سي-ضد-الكرمة/XY_-fjdBCoSGRn2a9dy0_"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-30T18:30:00.000Z",
-      "last_updated_at": "2026-02-16T10:46:56.000Z",
+      "last_updated_at": "2026-03-30T18:32:40.000Z",
       "competition": {
         "name": "الدوري الإيطالي الدرجة الثالثة",
         "country_or_area": "إيطاليا",
@@ -1100,8 +1100,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oqdzfwPubB-iXt7s1g-oj.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -1109,9 +1109,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/أريتزو-ضد-أسكولي/iHnm9HbvpHEenjuHTKMMy"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-30T18:30:00.000Z",
-      "last_updated_at": "2026-02-16T10:47:04.000Z",
+      "last_updated_at": "2026-03-30T18:31:06.000Z",
       "competition": {
         "name": "الدوري الإيطالي الدرجة الثالثة",
         "country_or_area": "إيطاليا",
@@ -1130,8 +1130,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7zQuIeapxnEJDU2LXxpUs.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "aggregate_score": null,
       "tv_channels": [],
