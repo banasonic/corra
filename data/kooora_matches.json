@@ -1,6 +1,6 @@
 {
   "source": "https://www.kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_utc": "2026-03-30T20:25:34.221511+00:00",
+  "fetched_at_utc": "2026-03-30T21:07:09.638322+00:00",
   "groups_count": 17,
   "matches_count": 41,
   "matches": [
@@ -337,9 +337,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/رواندا-ضد-إستونيا/6l21oD3aIbnsBBSzUy-IG"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T18:45:00.000Z",
-      "last_updated_at": "2026-03-30T20:19:21.000Z",
+      "last_updated_at": "2026-03-30T20:43:03.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -358,27 +358,11 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nj2LTtd5H8dMnxlr77ngO.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 2,
         "team_b": 1
       },
       "aggregate_score": null,
-      "tv_channels": [
-        {
-          "name": "beIN Sports Mena 1",
-          "url": "https://connect.bein.com/live/65",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png"
-        },
-        {
-          "name": "Sport TV 1",
-          "url": "https://www.sporttv.pt/",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Alx-XQfsOCot2Aqic32yt.png"
-        },
-        {
-          "name": "Arena 2 Premium",
-          "url": "https://www.tvarenasport.com/tv-scheme",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/JRdtH7rnGc6WYGEh0PuR97Mg3gBXVZPfjehYllZ5.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "مرسيدس بنز أرينا"
       },
@@ -505,9 +489,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/يونيون-ضد-اغروبيكواريو/qdbWn4tN8a7WYHXjHpIt_"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T19:00:00.000Z",
-      "last_updated_at": "2026-03-30T20:10:42.000Z",
+      "last_updated_at": "2026-03-30T20:53:43.000Z",
       "competition": {
         "name": "دوري الدرجة الثالثة الأرجنتيني",
         "country_or_area": "الأرجنتين",
@@ -535,9 +519,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/atletico-escobar-ضد-سبورتيفو-لاس-باريخاس/nQG-EI9RL_KHqNh1pfEcj"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T19:00:00.000Z",
-      "last_updated_at": "2026-03-30T20:14:43.000Z",
+      "last_updated_at": "2026-03-30T20:58:18.000Z",
       "competition": {
         "name": "دوري الدرجة الثانية الأرجنتيني",
         "country_or_area": "الأرجنتين",
@@ -595,9 +579,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/جاكوبينس-ضد-أميركا-آر-إن/KFj_heiNAIrWZflXTWZAt"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-30T21:00:00.000Z",
-      "last_updated_at": "2026-03-26T13:54:48.000Z",
+      "last_updated_at": "2026-03-30T21:00:06.000Z",
       "competition": {
         "name": "دوري تشيلي الدرجة الثانية",
         "country_or_area": "تشيلي",
@@ -616,8 +600,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yGof3722I0i-UlPForsA_.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -627,7 +611,7 @@
     {
       "status": "LIVE",
       "start_date_utc": "2026-03-30T20:00:00.000Z",
-      "last_updated_at": "2026-03-30T20:00:23.000Z",
+      "last_updated_at": "2026-03-30T21:04:58.000Z",
       "competition": {
         "name": "الدوري الكولومبي الدرجة الثانية",
         "country_or_area": "كولومبيا",
@@ -647,7 +631,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 1
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -685,9 +669,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/اورسومارسو-ضد-كورتولوا/j9b5Mweh6RnatEeITraWX"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T18:45:00.000Z",
-      "last_updated_at": "2026-03-30T19:54:06.000Z",
+      "last_updated_at": "2026-03-30T20:43:40.000Z",
       "competition": {
         "name": "الدوري الإنجليزي الدرجة الخامسة",
         "country_or_area": "إنجلترا",
@@ -707,7 +691,7 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 0
+        "team_b": 1
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -1049,9 +1033,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/دهوك-ضد-زاخو/re8aDH5KjwtjE1cKyczcY"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T18:30:00.000Z",
-      "last_updated_at": "2026-03-30T20:23:47.000Z",
+      "last_updated_at": "2026-03-30T20:38:40.000Z",
       "competition": {
         "name": "دوري نجوم العراق",
         "country_or_area": "العراق",
@@ -1071,7 +1055,7 @@
       },
       "score": {
         "team_a": 2,
-        "team_b": 2
+        "team_b": 1
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -1079,9 +1063,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/بغداد-إف-سي-ضد-الكرمة/XY_-fjdBCoSGRn2a9dy0_"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T18:30:00.000Z",
-      "last_updated_at": "2026-03-30T19:37:29.000Z",
+      "last_updated_at": "2026-03-30T20:34:25.000Z",
       "competition": {
         "name": "الدوري الإيطالي الدرجة الثالثة",
         "country_or_area": "إيطاليا",
@@ -1101,7 +1085,7 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 1
+        "team_b": 2
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -1109,9 +1093,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/أريتزو-ضد-أسكولي/iHnm9HbvpHEenjuHTKMMy"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T18:30:00.000Z",
-      "last_updated_at": "2026-03-30T19:37:29.000Z",
+      "last_updated_at": "2026-03-30T20:41:56.000Z",
       "competition": {
         "name": "الدوري الإيطالي الدرجة الثالثة",
         "country_or_area": "إيطاليا",
@@ -1130,7 +1114,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7zQuIeapxnEJDU2LXxpUs.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 2,
         "team_b": 0
       },
       "aggregate_score": null,
