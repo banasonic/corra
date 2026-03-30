@@ -1,6 +1,6 @@
 {
   "source": "https://www.kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_utc": "2026-03-30T15:38:48.044121+00:00",
+  "fetched_at_utc": "2026-03-30T16:38:19.187232+00:00",
   "groups_count": 17,
   "matches_count": 41,
   "matches": [
@@ -245,9 +245,9 @@
     },
     {
       "match_id": "eNQbtSaXZKSbyMTTKjy7n",
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T14:00:00.000Z",
-      "last_updated_at": "2026-03-30T15:08:57.000Z",
+      "last_updated_at": "2026-03-30T15:57:12.000Z",
       "competition": {
         "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
@@ -270,7 +270,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 2
+        "team_b": 3
       },
       "red_cards": {
         "team_a": 0,
@@ -284,9 +284,9 @@
     },
     {
       "match_id": "y4091NwnOWDtzyqvuGaeW",
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T14:00:00.000Z",
-      "last_updated_at": "2026-03-30T15:09:29.000Z",
+      "last_updated_at": "2026-03-30T16:06:21.000Z",
       "competition": {
         "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
@@ -316,14 +316,11 @@
         "team_b": 0
       },
       "aggregate_score": null,
-      "penalty_score": null,
-      "tv_channels": [
-        {
-          "name": "DAZN Italia",
-          "url": "https://www.dazn.com/en-JO/home",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/UqqLpjcUyFlsNktavowJXMtl3PTztP5BfUsdTHc5.png"
-        }
-      ],
+      "penalty_score": {
+        "teamA": 5,
+        "teamB": 4
+      },
+      "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/أوزبكستان-ضد-فنزويلا/y4091NwnOWDtzyqvuGaeW"
     },
@@ -331,7 +328,7 @@
       "match_id": "2-FNivydg8hWP7sGB2IF2",
       "status": "LIVE",
       "start_date_utc": "2026-03-30T15:00:00.000Z",
-      "last_updated_at": "2026-03-30T15:29:50.000Z",
+      "last_updated_at": "2026-03-30T16:35:15.000Z",
       "competition": {
         "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
@@ -353,7 +350,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iv6egYPPSrK2amKh_rZOo.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 1
       },
       "red_cards": {
@@ -368,9 +365,9 @@
     },
     {
       "match_id": "e76MgiyCOKba9GZADG1iq",
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-30T16:00:00.000Z",
-      "last_updated_at": "2026-03-30T15:37:21.000Z",
+      "last_updated_at": "2026-03-30T16:32:11.000Z",
       "competition": {
         "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
@@ -392,8 +389,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Ed_wex1s3JDNl6Wzl9qqk.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 0
       },
       "red_cards": {
         "team_a": 0,
@@ -521,7 +518,7 @@
       "match_id": "NDixet-DkeVwp0saR2Etm",
       "status": "LIVE",
       "start_date_utc": "2026-03-30T15:00:00.000Z",
-      "last_updated_at": "2026-03-30T15:13:22.000Z",
+      "last_updated_at": "2026-03-30T16:06:28.000Z",
       "competition": {
         "id": "2ty8ihceabty8yddmu31iuuej",
         "name": "الدوري الكولومبي",
@@ -543,7 +540,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oDgDe0ozOilTDGKFBeJJm.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 1
       },
       "red_cards": {
@@ -991,9 +988,9 @@
     },
     {
       "match_id": "XGmGUFXKk11jLM7bSoigD",
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-30T16:00:00.000Z",
-      "last_updated_at": "2026-03-30T15:32:37.000Z",
+      "last_updated_at": "2026-03-30T16:10:00.000Z",
       "competition": {
         "id": "2z7257m7hj58zuxcjrsg4erzc",
         "name": "الدوري الألماني لكرة القدم للسيدات",
@@ -1015,8 +1012,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CEAPJNPSO8c1B2yCmf6qW.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "red_cards": {
         "team_a": 0,
@@ -1264,9 +1261,9 @@
     },
     {
       "match_id": "VlkPEwB3pcvKCVmNG5_96",
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T14:30:00.000Z",
-      "last_updated_at": "2026-03-30T15:24:47.000Z",
+      "last_updated_at": "2026-03-30T16:33:31.000Z",
       "competition": {
         "id": "duuc1qczfnawwncru1ly6o66",
         "name": "دوري نجوم العراق",
@@ -1288,7 +1285,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AdX14PRG4jArm83OG-U7D.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 0
       },
       "red_cards": {
@@ -1305,7 +1302,7 @@
       "match_id": "gUGhKPYJNRfpprt1mey20",
       "status": "LIVE",
       "start_date_utc": "2026-03-30T14:30:00.000Z",
-      "last_updated_at": "2026-03-30T15:24:25.000Z",
+      "last_updated_at": "2026-03-30T16:13:45.000Z",
       "competition": {
         "id": "duuc1qczfnawwncru1ly6o66",
         "name": "دوري نجوم العراق",
@@ -1327,7 +1324,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/e-I_szIeuvt_2auFy5xL9.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 2,
         "team_b": 1
       },
       "red_cards": {
@@ -1344,7 +1341,7 @@
       "match_id": "re8aDH5KjwtjE1cKyczcY",
       "status": "LIVE",
       "start_date_utc": "2026-03-30T14:30:00.000Z",
-      "last_updated_at": "2026-03-30T15:19:43.000Z",
+      "last_updated_at": "2026-03-30T15:59:18.000Z",
       "competition": {
         "id": "duuc1qczfnawwncru1ly6o66",
         "name": "دوري نجوم العراق",
@@ -1367,7 +1364,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 1
       },
       "red_cards": {
         "team_a": 0,
