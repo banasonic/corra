@@ -1,7 +1,7 @@
 import json
 import os
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta # إضافة timedelta للتحويل
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
@@ -44,6 +44,21 @@ class KoooraScraper:
             raise RuntimeError("لم يتم العثور على __NEXT_DATA__")
         return json.loads(script.string)
 
+    # دالة جديدة لتحويل الوقت من UTC إلى توقيت مصر
+    def convert_to_egypt_time(self, utc_time_str: Optional[str]) -> Optional[str]:
+        if not utc_time_str:
+            return None
+        try:
+            # استخراج الوقت من الصيغة النصية (ISO format)
+            # مثال: 2026-03-31T21:00:00Z
+            utc_dt = datetime.fromisoformat(utc_time_str.replace('Z', '+00:00'))
+            # إضافة ساعتين لتوقيت القاهرة
+            egypt_dt = utc_dt + timedelta(hours=2)
+            # إرجاع الوقت بصيغة واضحة
+            return egypt_dt.strftime("%Y-%m-%d %H:%M:%S")
+        except:
+            return utc_time_str
+
     def normalize_team(self, team: Optional[Dict[str, Any]]) -> Dict[str, Any]:
         team = team or {}
         image = team.get("image") or {}
@@ -75,17 +90,17 @@ class KoooraScraper:
         output_matches = []
 
         for group in groups:
-            competition = group.get("competition") or {}
+            competition_name = (group.get("competition") or {}).get("name")
 
             for match in group.get("matches", []):
                 score = match.get("score") or {}
                 
-                # التعديلات المطلوبة هنا
                 item = {
                     "status": match.get("status"),
-                    "start_date_utc": match.get("startDate"),
-                    "last_updated_at": match.get("lastUpdatedAt"),
-                    "competition": competition.get("name"), # الاسم فقط
+                    # تم تحويل الوقت هنا إلى توقيت مصر
+                    "start_date_egypt": self.convert_to_egypt_time(match.get("startDate")),
+                    "last_updated_at": self.convert_to_egypt_time(match.get("lastUpdatedAt")),
+                    "competition": competition_name,
                     "round": match.get("round"),
                     "team_a": self.normalize_team(match.get("teamA")),
                     "team_b": self.normalize_team(match.get("teamB")),
@@ -95,13 +110,12 @@ class KoooraScraper:
                     },
                     "tv_channels": self.normalize_channels(match.get("tvChannels")),
                     "venue": match.get("venue"),
-                    # تم حذف aggregate_score و match_url
                 }
                 output_matches.append(item)
 
         return {
             "source": MATCHES_TODAY_URL,
-            "fetched_at_utc": datetime.now(timezone.utc).isoformat(),
+            "fetched_at_egypt": (datetime.now(timezone.utc) + timedelta(hours=2)).strftime("%Y-%m-%d %H:%M:%S"),
             "matches_count": len(output_matches),
             "matches": output_matches,
         }
@@ -120,6 +134,6 @@ if __name__ == "__main__":
     try:
         payload = scraper.run()
         save_json(payload, OUTPUT_FILE)
-        print(f"تم الحفظ بنجاح: {payload['matches_count']} مباراة.")
+        print(f"تم الحفظ بنجاح بتوقيت القاهرة: {payload['matches_count']} مباراة.")
     except Exception as e:
         print(f"فشل الاستخراج: {e}")
