@@ -1,6 +1,6 @@
 {
   "source": "https://www.kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_utc": "2026-03-31T10:09:39.517089+00:00",
+  "fetched_at_utc": "2026-03-31T11:29:46.079636+00:00",
   "groups_count": 22,
   "matches_count": 115,
   "matches": [
@@ -215,9 +215,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/الكاميرون-ضد-الصين/J1c7_oTGG-wo1I-34Ub7N"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T09:10:00.000Z",
-      "last_updated_at": "2026-03-31T09:59:31.000Z",
+      "last_updated_at": "2026-03-31T11:01:44.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -236,8 +236,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nkGfOtmV5ZFrSU2CfTicW.png"
       },
       "score": {
-        "team_a": 1,
-        "team_b": 0
+        "team_a": 5,
+        "team_b": 1
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -277,7 +277,7 @@
     {
       "status": "FIXTURE",
       "start_date_utc": "2026-03-31T12:00:00.000Z",
-      "last_updated_at": "2026-03-25T18:25:30.000Z",
+      "last_updated_at": "2026-03-31T11:26:20.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -1343,6 +1343,11 @@
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/qlOLiAxiUnlDcsFrYucvG.png"
         },
         {
+          "name": "Arena 1 Premium",
+          "url": "https://www.tvarenasport.com/tv-scheme",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/H84V7IZvbYj2ymIPafk7IRE3Zb5ccxvFkMlU2dGV.png"
+        },
+        {
           "name": "Supersport Variety 3",
           "url": "https://supersport.com/",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/5BIxGwlBrA-Lq9ViwL6q7.jpg"
@@ -1401,6 +1406,16 @@
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/xI6xwARa9TsAWRnrLsa2v.png"
         },
         {
+          "name": "Arena 2 Premium",
+          "url": "https://www.tvarenasport.com/tv-scheme",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/JRdtH7rnGc6WYGEh0PuR97Mg3gBXVZPfjehYllZ5.png"
+        },
+        {
+          "name": "arena sport 1",
+          "url": "https://www.tvarenasport.com/tv-scheme",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/YaYyIeQCIZGSqeh6qGXItkPicCaYW6OBChCx0dYx.png"
+        },
+        {
           "name": "Supersport Laliga",
           "url": "https://supersport.com/",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/2OGvuy7GyZwE48VXbw-f8.jpg"
@@ -1439,6 +1454,11 @@
       "aggregate_score": null,
       "tv_channels": [
         {
+          "name": "beIN Sports Mena 2",
+          "url": "https://connect.bein.com/live/66",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LTA60H5gtxbvApKo7mr_l.png"
+        },
+        {
           "name": "beIN Sports Mena 6",
           "url": "https://connect.bein.com/live/69",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/2TJX17Q7L1CmylRf5kSPQ.png"
@@ -1447,6 +1467,11 @@
           "name": "Sport TV 5",
           "url": "https://www.sporttv.pt/",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/zmVO-vLbLvT8DyPGz5koJ.png"
+        },
+        {
+          "name": "DAZN 1 Bar Deutsch",
+          "url": "https://www.dazn.com/",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/E9NAicu7AuFuRL3j552li.png"
         },
         {
           "name": "  TV8 Turkey",
@@ -1495,6 +1520,11 @@
           "name": "Sport TV 1",
           "url": "https://www.sporttv.pt/",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Alx-XQfsOCot2Aqic32yt.png"
+        },
+        {
+          "name": "arena sport 2",
+          "url": "https://www.tvarenasport.com/tv-scheme",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/YIB7hkPNCtSIaYr3u7Dbl8Trw5eMkQ0G9HWdQEQC.png"
         },
         {
           "name": "Supersport Football",
@@ -2192,9 +2222,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/burnley-u18-ضد-nottingham-forest-u18/6IPLrc8C7YpkcQeZChDiV"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-31T10:30:00.000Z",
-      "last_updated_at": "2026-03-29T13:43:59.000Z",
+      "last_updated_at": "2026-03-31T11:20:57.000Z",
       "competition": {
         "name": "الدوري الهندي للمحترفين",
         "country_or_area": "الهند",
@@ -2213,8 +2243,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6o57BSTExvdOiO3ppg_5c.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 3,
+        "team_b": 0
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -2222,9 +2252,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/غوكولام-كيرلا-ضد-ايزاول/129TlJaQ4GzOVuNJ4hQen"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T09:00:00.000Z",
-      "last_updated_at": "2026-03-31T10:03:24.000Z",
+      "last_updated_at": "2026-03-31T10:51:56.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لكأس آسيا",
         "country_or_area": "دولي",
@@ -2243,8 +2273,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5zd6I8bGDeb2BOOodKpW1.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 1
+        "team_a": 1,
+        "team_b": 2
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -2282,9 +2312,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/لبنان-ضد-اليمن/7gTwTnH5xWO5yXp1TBL-0"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-31T10:30:00.000Z",
-      "last_updated_at": "2026-03-30T15:14:32.000Z",
+      "last_updated_at": "2026-03-31T11:19:46.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لكأس آسيا",
         "country_or_area": "دولي",
@@ -2303,8 +2333,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sxtqEkBICnFrsmV6DNcGQ.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -2312,9 +2342,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/جزر-المالديف-ضد-تيمور-الشرقية/_Pnlfpq_30NB22DC4k733"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-31T10:30:00.000Z",
-      "last_updated_at": "2026-03-30T15:16:01.000Z",
+      "last_updated_at": "2026-03-31T11:18:49.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لكأس آسيا",
         "country_or_area": "دولي",
@@ -2333,8 +2363,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/X6umx2nx7lL7m4X9Y0KxZ.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 2
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -2582,9 +2612,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/سوريا-ضد-أفغانستان/efc-o_eZENHRxSp_9UKor"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-31T11:00:00.000Z",
-      "last_updated_at": "2026-03-22T08:57:53.000Z",
+      "last_updated_at": "2026-03-31T11:15:00.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لأمم أوروبا للشباب",
         "country_or_area": "دولي",
@@ -2603,8 +2633,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iB7GlH5uqqVnwZYstCeqg.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "aggregate_score": null,
       "tv_channels": [],
