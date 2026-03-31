@@ -3,7 +3,7 @@ name: Kooora Matches Scraper
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/35 * * * *'
 
 permissions:
   contents: write
