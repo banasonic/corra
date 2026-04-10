@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-04-10 02:05:16",
+  "fetched_at_egypt": "2026-04-10 05:50:36",
   "matches_count": 62,
   "matches": [
     {
@@ -225,9 +225,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-10 02:00:00",
-      "last_updated_at": "2026-04-10 02:00:36",
+      "last_updated_at": "2026-04-10 03:53:00",
       "competition": "كوبا ليبرتادوريس",
       "round": null,
       "team_a": {
@@ -242,15 +242,15 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-10 04:00:00",
-      "last_updated_at": "2026-03-21 16:19:07",
+      "last_updated_at": "2026-04-10 05:21:15",
       "competition": "كوبا ليبرتادوريس",
       "round": null,
       "team_a": {
@@ -264,8 +264,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DTVmx1ualqbW86mapV_46.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
@@ -317,32 +317,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-10 02:30:00",
-      "last_updated_at": "2026-04-10 01:46:42",
-      "competition": "كوبا سود أمريكانا",
-      "round": null,
-      "team_a": {
-        "name": "كارابوبو إف سي",
-        "code_name": "CBF",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "براغانتينو",
-        "code_name": "BGT",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-rS3Pv0-1ESok-NsgNA40.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-04-10 04:00:00",
-      "last_updated_at": "2026-03-21 16:15:35",
+      "last_updated_at": "2026-04-10 04:25:54",
       "competition": "كوبا سود أمريكانا",
       "round": null,
       "team_a": {
@@ -356,8 +333,31 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bLghIzXWDV39hXthzBUp5.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 1
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "RESULT",
+      "start_date_egypt": "2026-04-10 02:30:00",
+      "last_updated_at": "2026-04-10 04:29:01",
+      "competition": "كوبا سود أمريكانا",
+      "round": null,
+      "team_a": {
+        "name": "كارابوبو إف سي",
+        "code_name": "CBF",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
+      },
+      "team_b": {
+        "name": "براغانتينو",
+        "code_name": "BGT",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-rS3Pv0-1ESok-NsgNA40.png"
+      },
+      "score": {
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
@@ -390,7 +390,7 @@
     {
       "status": "RESULT",
       "start_date_egypt": "2026-04-09 23:00:00",
-      "last_updated_at": "2026-04-10 00:55:08",
+      "last_updated_at": "2026-04-10 02:12:35",
       "competition": "الدوري الهندوراسي",
       "round": null,
       "team_a": {
@@ -411,9 +411,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-10 01:15:00",
-      "last_updated_at": "2026-04-10 01:18:23",
+      "last_updated_at": "2026-04-10 03:20:49",
       "competition": "الدوري الهندوراسي",
       "round": null,
       "team_a": {
@@ -427,16 +427,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/saIHX0fussCRa4EUNv5AJ.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 3,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-10 03:30:00",
-      "last_updated_at": "2026-03-20 11:03:34",
+      "last_updated_at": "2026-04-10 05:28:31",
       "competition": "الدوري الهندوراسي",
       "round": null,
       "team_a": {
@@ -450,8 +450,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/009ptVHtcrf2V64282TXt.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
@@ -503,9 +503,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-10 02:00:00",
-      "last_updated_at": "2026-04-10 02:00:12",
+      "last_updated_at": "2026-04-10 03:52:56",
       "competition": "كأس الأرجنتين",
       "round": null,
       "team_a": {
@@ -519,8 +519,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jxKdOQxBl6i4LoGMmpqlo.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 4,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
@@ -553,7 +553,7 @@
     {
       "status": "RESULT",
       "start_date_egypt": "2026-04-10 00:00:00",
-      "last_updated_at": "2026-04-10 01:57:51",
+      "last_updated_at": "2026-04-10 02:12:21",
       "competition": "دوري الشمال البرازيلي",
       "round": null,
       "team_a": {
@@ -576,7 +576,7 @@
     {
       "status": "RESULT",
       "start_date_egypt": "2026-04-10 00:00:00",
-      "last_updated_at": "2026-04-10 02:00:12",
+      "last_updated_at": "2026-04-10 02:12:23",
       "competition": "دوري الشمال البرازيلي",
       "round": null,
       "team_a": {
@@ -766,7 +766,7 @@
     {
       "status": "RESULT",
       "start_date_egypt": "2026-04-09 23:00:00",
-      "last_updated_at": "2026-04-10 00:57:43",
+      "last_updated_at": "2026-04-10 02:12:33",
       "competition": "الدوري الكولومبي الدرجة الثانية",
       "round": null,
       "team_a": {
