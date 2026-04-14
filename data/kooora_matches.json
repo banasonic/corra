@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-04-14 11:58:35",
+  "fetched_at_egypt": "2026-04-14 13:14:02",
   "matches_count": 128,
   "matches": [
     {
@@ -706,6 +706,10 @@
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LTA60H5gtxbvApKo7mr_l.png"
         },
         {
+          "name": "ALKASS Five",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/OnjNt3fTVQZinwW3Z9Z5g.jpg"
+        },
+        {
           "name": "TOD TV",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
         },
@@ -737,6 +741,14 @@
         "team_b": null
       },
       "tv_channels": [
+        {
+          "name": "beIN Sports Mena 3",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/PyMZVVF6KAk0uCaEBvL0C.png"
+        },
+        {
+          "name": "ALKASS Five",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/OnjNt3fTVQZinwW3Z9Z5g.jpg"
+        },
         {
           "name": "Sport 1 Ukraine",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/qn92hS01lbdyHPIDGYoaa.png"
@@ -906,9 +918,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-14 13:00:00",
-      "last_updated_at": "2026-04-07 12:21:39",
+      "last_updated_at": "2026-04-14 13:00:37",
       "competition": "الدوري الأرميني",
       "round": null,
       "team_a": {
@@ -922,8 +934,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IqB9FwtLsO9jC5hcPYTf0.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
@@ -1090,7 +1102,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "On Sport",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RRtYYqosc-2TRVffuNBJ9.png"
+        }
+      ],
       "venue": {
         "name": "ستاد القاهرة الدولي"
       }
@@ -1115,7 +1132,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "On Sport Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exaOr7SDxSp77QLtQ5n1X.png"
+        }
+      ],
       "venue": {
         "name": "استاد الإسكندرية"
       }
@@ -1140,7 +1162,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "On Sport",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RRtYYqosc-2TRVffuNBJ9.png"
+        }
+      ],
       "venue": {
         "name": "استاد الإسماعيلية"
       }
@@ -1771,9 +1798,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-14 12:00:00",
-      "last_updated_at": "2025-11-04 14:52:49",
+      "last_updated_at": "2026-04-14 13:00:02",
       "competition": "الدوري الإنجليزي تحت 18 عامًا",
       "round": null,
       "team_a": {
@@ -1787,8 +1814,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8h2wqbwldachf4qpviz2prw0q.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 4
       },
       "tv_channels": [],
       "venue": null
@@ -2649,9 +2676,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-14 13:00:00",
-      "last_updated_at": "2026-04-09 12:19:52",
+      "last_updated_at": "2026-04-14 13:01:57",
       "competition": "دوري مقدونيا الشمالية",
       "round": null,
       "team_a": {
@@ -2665,8 +2692,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Q1VRQ4CEcvT_mz57AJk6Y.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
