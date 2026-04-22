@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-04-22 09:59:04",
+  "fetched_at_egypt": "2026-04-22 11:46:14",
   "matches_count": 187,
   "matches": [
     {
@@ -1114,8 +1114,8 @@
     },
     {
       "status": "FIXTURE",
-      "start_date_egypt": "2026-04-22 12:00:00",
-      "last_updated_at": "2026-04-14 15:46:41",
+      "start_date_egypt": "2026-04-22 12:03:00",
+      "last_updated_at": "2026-04-22 11:00:26",
       "competition": "الدوري الياباني الممتاز",
       "round": null,
       "team_a": {
@@ -2099,7 +2099,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-04-22 18:00:00",
-      "last_updated_at": "2026-04-21 13:41:28",
+      "last_updated_at": "2026-04-22 11:13:07",
       "competition": "الدوري الدنماركي",
       "round": null,
       "team_a": {
@@ -2306,7 +2306,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "On Sport",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RRtYYqosc-2TRVffuNBJ9.png"
+        }
+      ],
       "venue": {
         "name": "ستاد القاهرة الدولي"
       }
@@ -2331,7 +2336,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "On Sport Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exaOr7SDxSp77QLtQ5n1X.png"
+        }
+      ],
       "venue": {
         "name": "استاد الجيش ببرج العرب"
       }
@@ -3179,9 +3189,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-22 10:30:00",
-      "last_updated_at": "2025-07-18 10:55:55",
+      "last_updated_at": "2026-04-22 11:35:25",
       "competition": "الدوري الأندونيسي",
       "round": null,
       "team_a": {
@@ -3195,16 +3205,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Xsgtz5pEiwaNTKTF_alo4.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-22 10:30:00",
-      "last_updated_at": "2026-04-22 09:55:13",
+      "last_updated_at": "2026-04-22 11:33:30",
       "competition": "الدوري الأندونيسي",
       "round": null,
       "team_a": {
@@ -3218,8 +3228,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NObtNV_RsrgXzaf_x9jtP.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
@@ -3248,6 +3258,10 @@
         {
           "name": "beIN Sports Mena 2",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LTA60H5gtxbvApKo7mr_l.png"
+        },
+        {
+          "name": "ALKASS Five",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/OnjNt3fTVQZinwW3Z9Z5g.jpg"
         },
         {
           "name": "TOD TV",
@@ -4316,7 +4330,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-04-22 12:30:00",
-      "last_updated_at": "2026-01-15 12:41:24",
+      "last_updated_at": "2026-04-22 11:34:16",
       "competition": "الدوري الكوري الجنوبي",
       "round": null,
       "team_a": {
@@ -4341,7 +4355,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-04-22 12:30:00",
-      "last_updated_at": "2026-01-15 12:41:24",
+      "last_updated_at": "2026-04-22 11:38:54",
       "competition": "الدوري الكوري الجنوبي",
       "round": null,
       "team_a": {
@@ -4366,7 +4380,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-04-22 12:30:00",
-      "last_updated_at": "2026-01-15 12:41:24",
+      "last_updated_at": "2026-04-22 11:43:03",
       "competition": "الدوري الكوري الجنوبي",
       "round": null,
       "team_a": {
