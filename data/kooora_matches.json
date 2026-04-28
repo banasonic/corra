@@ -1,12 +1,12 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-04-28 19:14:56",
+  "fetched_at_egypt": "2026-04-28 21:10:28",
   "matches_count": 74,
   "matches": [
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-28 21:00:00",
-      "last_updated_at": "2026-04-27 10:25:44",
+      "last_updated_at": "2026-04-28 21:01:27",
       "competition": "دوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -20,8 +20,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [
         {
@@ -283,9 +283,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-28 20:45:00",
-      "last_updated_at": "2026-03-11 20:11:01",
+      "last_updated_at": "2026-04-28 20:46:53",
       "competition": "الدوري الإنجليزي الدرجة الأولى",
       "round": null,
       "team_a": {
@@ -299,8 +299,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zrA_YgKgSHz-G7qbhWYG-.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": {
@@ -492,9 +492,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-28 21:00:00",
-      "last_updated_at": "2026-04-28 14:24:22",
+      "last_updated_at": "2026-04-28 21:01:23",
       "competition": "الرابطة الجزائرية المحترفة الأولى",
       "round": null,
       "team_a": {
@@ -508,8 +508,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
@@ -538,9 +538,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 19:00:00",
-      "last_updated_at": "2026-04-28 19:01:28",
+      "last_updated_at": "2026-04-28 20:55:38",
       "competition": "الدوري الدنماركي للسيدات",
       "round": null,
       "team_a": {
@@ -555,7 +555,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
@@ -611,9 +611,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 19:00:00",
-      "last_updated_at": "2026-04-28 19:00:27",
+      "last_updated_at": "2026-04-28 21:08:24",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -627,23 +627,18 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4LuIEtYxL4j_8SLTlxomO.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 1,
+        "team_b": 1
       },
-      "tv_channels": [
-        {
-          "name": "On Sport Max",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exaOr7SDxSp77QLtQ5n1X.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "ستاد المقاولون العرب"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 19:00:00",
-      "last_updated_at": "2026-04-28 19:02:01",
+      "last_updated_at": "2026-04-28 20:59:41",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -657,23 +652,18 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JWW7CvCe5hMfY9EyPWGku.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 1,
+        "team_b": 3
       },
-      "tv_channels": [
-        {
-          "name": "On Sport",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RRtYYqosc-2TRVffuNBJ9.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "استاد الإسماعيلية"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-28 20:45:00",
-      "last_updated_at": "2026-03-20 10:18:07",
+      "last_updated_at": "2026-04-28 20:45:48",
       "competition": "الدوري الإنجليزي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -687,8 +677,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rT7ytASM1IP3_PM9xhLa9.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": {
@@ -696,9 +686,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-28 20:45:00",
-      "last_updated_at": "2026-03-21 11:25:06",
+      "last_updated_at": "2026-04-28 20:46:10",
       "competition": "الدوري الإنجليزي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -712,8 +702,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Ot1G7D9fHRaIOij-AYp79.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": {
@@ -721,9 +711,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-28 20:45:00",
-      "last_updated_at": "2026-03-20 10:18:07",
+      "last_updated_at": "2026-04-28 21:08:23",
       "competition": "الدوري الإنجليزي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -737,8 +727,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/tDyvFwK8pbzUJdGtfebiY.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": {
@@ -746,9 +736,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-28 20:45:00",
-      "last_updated_at": "2026-04-25 16:33:28",
+      "last_updated_at": "2026-04-28 20:50:41",
       "competition": "الدوري الإنجليزي الدرجة الرابعة",
       "round": null,
       "team_a": {
@@ -762,8 +752,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/I2BMy22iuZE_1-jARod9v.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": {
@@ -771,9 +761,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-28 20:45:00",
-      "last_updated_at": "2026-04-25 16:44:39",
+      "last_updated_at": "2026-04-28 20:46:58",
       "competition": "الدوري الإنجليزي الدرجة الخامسة",
       "round": null,
       "team_a": {
@@ -787,8 +777,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3gDrbrXykq63CVMo2XqW7.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": {
@@ -796,9 +786,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-28 20:45:00",
-      "last_updated_at": "2026-04-25 16:59:40",
+      "last_updated_at": "2026-04-28 20:45:29",
       "competition": "الدوري الإنجليزي الدرجة الخامسة",
       "round": null,
       "team_a": {
@@ -812,8 +802,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lK5jBB3nQ2-HssDzbwYoa.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": {
@@ -821,9 +811,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-28 20:45:00",
-      "last_updated_at": "2026-04-25 19:16:57",
+      "last_updated_at": "2026-04-28 20:49:12",
       "competition": "الدوري الإنجليزي الدرجة السادسة",
       "round": null,
       "team_a": {
@@ -837,8 +827,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Q6HJkBWyJo4zRfLuzTIoD.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": {
@@ -846,9 +836,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-28 20:45:00",
-      "last_updated_at": "2026-04-25 19:16:57",
+      "last_updated_at": "2026-04-28 20:48:07",
       "competition": "الدوري الإنجليزي الدرجة السادسة",
       "round": null,
       "team_a": {
@@ -862,8 +852,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sK0jVosxyCdaObY8HM16Z.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": {
@@ -1055,9 +1045,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 17:30:00",
-      "last_updated_at": "2026-04-28 19:11:22",
+      "last_updated_at": "2026-04-28 19:24:07",
       "competition": "كأس فنلندا",
       "round": null,
       "team_a": {
@@ -1078,9 +1068,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 17:30:00",
-      "last_updated_at": "2026-04-28 18:55:06",
+      "last_updated_at": "2026-04-28 19:22:18",
       "competition": "كأس فنلندا",
       "round": null,
       "team_a": {
@@ -1101,9 +1091,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 17:30:00",
-      "last_updated_at": "2026-04-28 18:57:23",
+      "last_updated_at": "2026-04-28 19:16:49",
       "competition": "كأس فنلندا",
       "round": null,
       "team_a": {
@@ -1124,9 +1114,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 17:30:00",
-      "last_updated_at": "2026-04-28 19:05:53",
+      "last_updated_at": "2026-04-28 19:21:05",
       "competition": "كأس فنلندا",
       "round": null,
       "team_a": {
@@ -1147,9 +1137,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 17:30:00",
-      "last_updated_at": "2026-04-28 18:50:29",
+      "last_updated_at": "2026-04-28 19:29:05",
       "competition": "كأس فنلندا",
       "round": null,
       "team_a": {
@@ -1164,15 +1154,15 @@
       },
       "score": {
         "team_a": 2,
-        "team_b": 2
+        "team_b": 4
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 18:00:00",
-      "last_updated_at": "2026-04-28 19:10:09",
+      "last_updated_at": "2026-04-28 19:59:49",
       "competition": "كأس فنلندا",
       "round": null,
       "team_a": {
@@ -1186,16 +1176,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JTNQMpyQZGomW89wr6wTc.png"
       },
       "score": {
-        "team_a": 1,
-        "team_b": 2
+        "team_a": 3,
+        "team_b": 5
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 19:00:00",
-      "last_updated_at": "2026-04-28 19:12:06",
+      "last_updated_at": "2026-04-28 21:05:09",
       "competition": "كأس فنلندا",
       "round": null,
       "team_a": {
@@ -1209,16 +1199,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WMk5M0mvBgIWQZ6bJIlx-.png"
       },
       "score": {
-        "team_a": 1,
-        "team_b": 0
+        "team_a": 3,
+        "team_b": 3
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 19:00:00",
-      "last_updated_at": "2026-04-28 15:33:15",
+      "last_updated_at": "2026-04-28 20:50:45",
       "competition": "كأس فنلندا",
       "round": null,
       "team_a": {
@@ -1232,16 +1222,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iIIEqyzNKbqf4VyMjQwAa.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 3
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-28 20:00:00",
-      "last_updated_at": "2026-04-28 15:33:15",
+      "last_updated_at": "2026-04-28 21:00:41",
       "competition": "كأس فنلندا",
       "round": null,
       "team_a": {
@@ -1255,16 +1245,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Kv9tSgoVmdb0yGhIgzn6o.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 19:00:00",
-      "last_updated_at": "2026-04-28 19:01:05",
+      "last_updated_at": "2026-04-28 20:58:24",
       "competition": "الدوري الألماني الدرجة الرابعة",
       "round": null,
       "team_a": {
@@ -1278,16 +1268,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/UFXAo1hve1jCnj4du8kwK.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 3,
+        "team_b": 4
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 19:00:00",
-      "last_updated_at": "2026-04-28 19:01:00",
+      "last_updated_at": "2026-04-28 20:56:09",
       "competition": "الدوري الألماني الدرجة الرابعة",
       "round": null,
       "team_a": {
@@ -1302,15 +1292,15 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 19:00:00",
-      "last_updated_at": "2026-04-28 19:01:05",
+      "last_updated_at": "2026-04-28 20:53:08",
       "competition": "الدوري الألماني الدرجة الرابعة",
       "round": null,
       "team_a": {
@@ -1324,8 +1314,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bGmEaYbPGfw9KPi-Lulr1.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
@@ -1446,9 +1436,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 19:00:00",
-      "last_updated_at": "2026-04-28 19:02:01",
+      "last_updated_at": "2026-04-28 20:53:28",
       "competition": "الدوري اللاتفي الممتاز",
       "round": null,
       "team_a": {
@@ -1462,8 +1452,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YSrjxV2blw37IWTESMZX_.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 3,
+        "team_b": 3
       },
       "tv_channels": [],
       "venue": null
@@ -1492,9 +1482,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 18:45:00",
-      "last_updated_at": "2026-04-28 18:46:45",
+      "last_updated_at": "2026-04-28 20:47:18",
       "competition": "دوري الهولندي - ملحق الصعود والهبوط",
       "round": null,
       "team_a": {
@@ -1508,8 +1498,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2b6QCdpRMCUKKFoGq26dB.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": {
@@ -1517,9 +1507,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-28 20:45:00",
-      "last_updated_at": "2026-04-26 08:33:27",
+      "last_updated_at": "2026-04-28 20:47:25",
       "competition": "دوري أيرلندا الشمالية الممتاز - ملحق الصعود والهبوط",
       "round": null,
       "team_a": {
@@ -1533,8 +1523,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bUEN6MyC3dc7lVrvDFJoy.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": {
@@ -1542,9 +1532,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 18:00:00",
-      "last_updated_at": "2026-04-28 19:05:58",
+      "last_updated_at": "2026-04-28 20:01:05",
       "competition": "الدوري النرويجي للسيدات",
       "round": null,
       "team_a": {
@@ -1558,7 +1548,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Ao5Me7YXVrVeTH8f3XIOm.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 2,
         "team_b": 0
       },
       "tv_channels": [],
@@ -1567,9 +1557,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-28 21:00:00",
-      "last_updated_at": "2026-04-10 09:32:50",
+      "last_updated_at": "2026-04-28 21:03:32",
       "competition": "الدوري البرتغالي الدرجة الثالثة",
       "round": null,
       "team_a": {
@@ -1583,16 +1573,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XLAfTYhrTbGxx-rRJ_bs6.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 19:00:00",
-      "last_updated_at": "2026-04-28 19:01:28",
+      "last_updated_at": "2026-04-28 21:08:26",
       "competition": "الدوري البرتغالي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -1613,9 +1603,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 18:00:00",
-      "last_updated_at": "2026-04-28 19:07:07",
+      "last_updated_at": "2026-04-28 20:06:05",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -1629,23 +1619,18 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rPk_BPWd03waHaHyTxRIo.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 1
       },
-      "tv_channels": [
-        {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "اس اتش جي ارينا"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 18:45:00",
-      "last_updated_at": "2026-04-28 18:53:56",
+      "last_updated_at": "2026-04-28 20:47:20",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -1660,22 +1645,17 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 0
+        "team_b": 1
       },
-      "tv_channels": [
-        {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "مدينة الملك خالد الرياضية"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-28 20:00:00",
-      "last_updated_at": "2026-04-28 19:05:24",
+      "last_updated_at": "2026-04-28 21:07:24",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -1689,8 +1669,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/haN3DRmzEODX1mmewqQfG.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_channels": [
         {
@@ -1703,9 +1683,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-28 20:00:00",
-      "last_updated_at": "2026-04-18 18:50:07",
+      "last_updated_at": "2026-04-28 21:05:02",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -1719,8 +1699,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DNpE6Ad-22lZLijJaptfX.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_channels": [
         {
@@ -1733,9 +1713,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-28 19:00:00",
-      "last_updated_at": "2026-04-28 19:00:51",
+      "last_updated_at": "2026-04-28 21:01:08",
       "competition": "الدوري السويدي الدرجة الأولى",
       "round": null,
       "team_a": {
@@ -1749,8 +1729,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/U-aSf5t0_vX35XQy8eMLQ.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 1,
+        "team_b": 3
       },
       "tv_channels": [],
       "venue": null
