@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-05-05 05:58:48",
+  "fetched_at_egypt": "2026-05-05 08:25:57",
   "matches_count": 77,
   "matches": [
     {
@@ -1013,29 +1013,6 @@
     },
     {
       "status": "FIXTURE",
-      "start_date_egypt": "2026-05-05 17:30:00",
-      "last_updated_at": "2026-02-16 10:06:59",
-      "competition": "الدوري الليتواني",
-      "round": null,
-      "team_a": {
-        "name": "ريتيرياي",
-        "code_name": "RIT",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BtMhBqm1XkMBv4EWf6YhD.png"
-      },
-      "team_b": {
-        "name": "بانغا غارغزداي",
-        "code_name": "BAG",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BOnm82PaAYMtvUpiZUWVq.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
       "start_date_egypt": "2026-05-05 17:45:00",
       "last_updated_at": "2026-02-16 10:06:59",
       "competition": "الدوري الليتواني",
@@ -1049,6 +1026,29 @@
         "name": "دزيوجاس تيلسياي",
         "code_name": "DZT",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Cg7eMWdxOoMoMQM0q3Tnk.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-05-05 17:30:00",
+      "last_updated_at": "2026-02-16 10:06:59",
+      "competition": "الدوري الليتواني",
+      "round": null,
+      "team_a": {
+        "name": "ريتيرياي",
+        "code_name": "RIT",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BtMhBqm1XkMBv4EWf6YhD.png"
+      },
+      "team_b": {
+        "name": "بانغا غارغزداي",
+        "code_name": "BAG",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BOnm82PaAYMtvUpiZUWVq.png"
       },
       "score": {
         "team_a": null,
@@ -1495,9 +1495,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-05-05 07:00:00",
-      "last_updated_at": "2026-01-15 12:42:16",
+      "last_updated_at": "2026-05-05 08:04:13",
       "competition": "الدوري الكوري الجنوبي",
       "round": null,
       "team_a": {
@@ -1511,8 +1511,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/wxPfUo68TFFAobkzd6664.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": {
@@ -1520,9 +1520,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-05-05 07:00:00",
-      "last_updated_at": "2026-01-15 12:41:24",
+      "last_updated_at": "2026-05-05 08:09:12",
       "competition": "الدوري الكوري الجنوبي",
       "round": null,
       "team_a": {
@@ -1536,8 +1536,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YZftg-p71sPjei6EuboeB.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": {
