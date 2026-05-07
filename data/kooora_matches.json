@@ -1,7 +1,7 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-05-07 07:02:18",
-  "matches_count": 45,
+  "fetched_at_egypt": "2026-05-07 10:04:54",
+  "matches_count": 46,
   "matches": [
     {
       "status": "FIXTURE",
@@ -679,6 +679,29 @@
       "venue": {
         "name": "ستاد هيئة قناة السويس الجديد"
       }
+    },
+    {
+      "status": "CANCELLED",
+      "start_date_egypt": "2026-05-07 18:00:00",
+      "last_updated_at": "2026-05-07 07:09:52",
+      "competition": "الدوري السلفادوري",
+      "round": null,
+      "team_a": {
+        "name": "إيسيدرو ميتابيان",
+        "code_name": "IDM",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/msA1Y4bjylu3HXyPM2oIF.png"
+      },
+      "team_b": {
+        "name": "فيربو",
+        "code_name": "DLA",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YHGpMalwEauucwdDNjzln.png"
+      },
+      "score": {
+        "team_a": 0,
+        "team_b": 1
+      },
+      "tv_channels": [],
+      "venue": null
     },
     {
       "status": "FIXTURE",
