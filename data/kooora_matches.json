@@ -1,7 +1,7 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-05-21 06:55:50",
-  "matches_count": 63,
+  "fetched_at_egypt": "2026-05-21 10:39:37",
+  "matches_count": 66,
   "matches": [
     {
       "status": "FIXTURE",
@@ -27,6 +27,29 @@
       "venue": {
         "name": "Estadio Banorte"
       }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-05-21 17:30:00",
+      "last_updated_at": "2026-05-21 08:49:40",
+      "competition": "المباريات الودية",
+      "round": null,
+      "team_a": {
+        "name": "قطر",
+        "code_name": "QAT",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cSB1GxBUgIZio_9_kvWmi.png"
+      },
+      "team_b": {
+        "name": "السودان",
+        "code_name": "السودان",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4iMhIEwf-zsN_Z203_TYK.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
     },
     {
       "status": "FIXTURE",
@@ -375,6 +398,52 @@
         "name": "انتر باكو",
         "code_name": "SHA",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/r3tMGNoRvgI7_7aw759nE.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-05-21 20:30:00",
+      "last_updated_at": "2026-05-21 08:28:14",
+      "competition": "دوري البوسنة والهرسك",
+      "round": null,
+      "team_a": {
+        "name": "فيليز موستار",
+        "code_name": "VEM",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xI0yz3O8zVPuQvbkIT96m.png"
+      },
+      "team_b": {
+        "name": "إف ك ساراييفو",
+        "code_name": "SAR",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YNnmGx6QsK5BBx8dMFyUk.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-05-21 20:30:00",
+      "last_updated_at": "2026-05-21 08:28:14",
+      "competition": "دوري البوسنة والهرسك",
+      "round": null,
+      "team_a": {
+        "name": "زيلييزنيكار",
+        "code_name": "ZEL",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5XW2CaESIutyZKzlH8VsV.png"
+      },
+      "team_b": {
+        "name": "سيروكي براييج",
+        "code_name": "BRI",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eRP-JoOQ-aJeTNqW2t_IO.png"
       },
       "score": {
         "team_a": null,
@@ -813,8 +882,8 @@
     },
     {
       "status": "FIXTURE",
-      "start_date_egypt": "2026-05-21 14:30:00",
-      "last_updated_at": "2026-05-13 05:31:30",
+      "start_date_egypt": "2026-05-21 14:00:00",
+      "last_updated_at": "2026-05-21 08:40:26",
       "competition": "الدوري الإيراني الدرجة الأولى",
       "round": null,
       "team_a": {
@@ -1249,7 +1318,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-05-21 20:00:00",
-      "last_updated_at": "2026-05-11 14:27:52",
+      "last_updated_at": "2026-05-21 08:06:52",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -1309,7 +1378,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-05-21 20:00:00",
-      "last_updated_at": "2026-05-11 14:28:30",
+      "last_updated_at": "2026-05-21 08:16:14",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
