@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-05-22 06:10:51",
+  "fetched_at_egypt": "2026-05-22 10:00:08",
   "matches_count": 123,
   "matches": [
     {
@@ -401,9 +401,9 @@
       "venue": null
     },
     {
-      "status": "POSTPONED",
+      "status": "FIXTURE",
       "start_date_egypt": "2026-05-22 19:00:00",
-      "last_updated_at": "2026-05-18 13:58:48",
+      "last_updated_at": "2026-05-22 07:57:55",
       "competition": "الرابطة الجزائرية المحترفة الأولى",
       "round": null,
       "team_a": {
@@ -417,8 +417,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0CtqeZcAcnFnTqBntN098.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": null,
+        "team_b": null
       },
       "tv_channels": [],
       "venue": null
@@ -681,9 +681,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-05-22 21:00:00",
-      "last_updated_at": "2026-04-01 09:30:33",
+      "last_updated_at": "2026-05-22 08:05:22",
       "competition": "الدوري البوليفي",
       "round": null,
       "team_a": {
@@ -697,16 +697,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-05-23 02:00:00",
-      "last_updated_at": "2026-04-01 09:30:33",
+      "last_updated_at": "2026-05-22 08:05:24",
       "competition": "الدوري البوليفي",
       "round": null,
       "team_a": {
@@ -720,8 +720,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/tIXcWDg080USKhMUvnd4P.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
@@ -1654,7 +1654,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-05-22 10:30:00",
-      "last_updated_at": "2026-05-18 14:07:25",
+      "last_updated_at": "2026-05-22 09:55:26",
       "competition": "الدوري الأندونيسي",
       "round": null,
       "team_a": {
@@ -2300,6 +2300,29 @@
     },
     {
       "status": "FIXTURE",
+      "start_date_egypt": "2026-05-22 18:30:00",
+      "last_updated_at": "2026-05-22 08:19:30",
+      "competition": "الدوري النرويجي الدرجة الثالثة",
+      "round": null,
+      "team_a": {
+        "name": "فارد هاوجيسوند",
+        "code_name": "VAR",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5w7VP-9kYDmXfDOYEscJy.png"
+      },
+      "team_b": {
+        "name": "ستورد سونهوردلاند",
+        "code_name": "STO",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5wOvGJlGpYTlSUtYClj-1.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
       "start_date_egypt": "2026-05-22 19:00:00",
       "last_updated_at": "2026-01-19 14:05:14",
       "competition": "الدوري النرويجي الدرجة الثالثة",
@@ -2359,29 +2382,6 @@
         "name": "فانا",
         "code_name": "FAN",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w87Eo0vlfyT2KInWQBxaE.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-05-22 19:00:00",
-      "last_updated_at": "2026-01-19 14:15:44",
-      "competition": "الدوري النرويجي الدرجة الثالثة",
-      "round": null,
-      "team_a": {
-        "name": "فارد هاوجيسوند",
-        "code_name": "VAR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5w7VP-9kYDmXfDOYEscJy.png"
-      },
-      "team_b": {
-        "name": "ستورد سونهوردلاند",
-        "code_name": "STO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5wOvGJlGpYTlSUtYClj-1.png"
       },
       "score": {
         "team_a": null,
