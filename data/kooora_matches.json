@@ -1,7 +1,7 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-05-22 10:00:08",
-  "matches_count": 123,
+  "fetched_at_egypt": "2026-05-22 13:13:16",
+  "matches_count": 115,
   "matches": [
     {
       "status": "FIXTURE",
@@ -192,9 +192,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-05-22 12:30:00",
-      "last_updated_at": "2026-01-09 14:53:18",
+      "last_updated_at": "2026-05-22 12:43:12",
       "competition": "الدوري الياباني الممتاز",
       "round": null,
       "team_a": {
@@ -208,8 +208,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0PeG1kW1nv9LLjK0VU8sZ.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": {
@@ -217,193 +217,9 @@
       }
     },
     {
-      "status": "POSTPONED",
-      "start_date_egypt": "2026-05-22 15:00:00",
-      "last_updated_at": "2026-05-18 13:58:42",
-      "competition": "الرابطة الجزائرية المحترفة الأولى",
-      "round": null,
-      "team_a": {
-        "name": "ترجي مستغانم",
-        "code_name": "ESM",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VbGn9-Sg0kcqJfAdJ3Z5K.png"
-      },
-      "team_b": {
-        "name": "مولودية البيض",
-        "code_name": "ELB",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dEQQvva169v6FPnFXE_0y.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 0
-      },
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "POSTPONED",
-      "start_date_egypt": "2026-05-22 15:00:00",
-      "last_updated_at": "2026-05-18 13:58:44",
-      "competition": "الرابطة الجزائرية المحترفة الأولى",
-      "round": null,
-      "team_a": {
-        "name": "شبيبة القبائل",
-        "code_name": "شبيبة القبائل",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yJqlpt7JUOGzaWZ_h34Hg.png"
-      },
-      "team_b": {
-        "name": "شباب بلوزداد",
-        "code_name": "CRB",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8vldgq3nu5tcnv2xyq01pfru7.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 0
-      },
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "POSTPONED",
-      "start_date_egypt": "2026-05-22 15:00:00",
-      "last_updated_at": "2026-05-18 13:58:43",
-      "competition": "الرابطة الجزائرية المحترفة الأولى",
-      "round": null,
-      "team_a": {
-        "name": "شبيبة الساورة",
-        "code_name": "JSS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kUuWAOrQUvfDRo8_yt4qb.png"
-      },
-      "team_b": {
-        "name": "شباب قسنطينة",
-        "code_name": "CSC",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Nfdj090pcn37NyQE7umAx.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 0
-      },
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "POSTPONED",
-      "start_date_egypt": "2026-05-22 15:00:00",
-      "last_updated_at": "2026-05-18 13:58:45",
-      "competition": "الرابطة الجزائرية المحترفة الأولى",
-      "round": null,
-      "team_a": {
-        "name": "مولودية الجزائر",
-        "code_name": "مولودية",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HhHepXugkqltK-ifYZiM4.png"
-      },
-      "team_b": {
-        "name": "أولمبي الشلف",
-        "code_name": "ASO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cabv8-yrAC825a_H4CAhO.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 0
-      },
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "POSTPONED",
-      "start_date_egypt": "2026-05-22 15:00:00",
-      "last_updated_at": "2026-05-09 11:30:05",
-      "competition": "الرابطة الجزائرية المحترفة الأولى",
-      "round": null,
-      "team_a": {
-        "name": "مولودية وهران",
-        "code_name": "MCO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5O4l-ZmMys8usBBJjZaRE.png"
-      },
-      "team_b": {
-        "name": "اتحاد العاصمة",
-        "code_name": "USM",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmacYj1xKowH8vbo46Zxf.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 0
-      },
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "POSTPONED",
-      "start_date_egypt": "2026-05-22 15:00:00",
-      "last_updated_at": "2026-05-18 13:58:46",
-      "competition": "الرابطة الجزائرية المحترفة الأولى",
-      "round": null,
-      "team_a": {
-        "name": "أولمبي أقبو",
-        "code_name": "OAK",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "نجم بن عكنون",
-        "code_name": "BAK",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/01fi2CVXuLA9_By2xUnu2.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 0
-      },
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "POSTPONED",
-      "start_date_egypt": "2026-05-22 15:00:00",
-      "last_updated_at": "2026-05-09 11:30:18",
-      "competition": "الرابطة الجزائرية المحترفة الأولى",
-      "round": null,
-      "team_a": {
-        "name": "نادي بارادو",
-        "code_name": "PAR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0CtqeZcAcnFnTqBntN098.png"
-      },
-      "team_b": {
-        "name": "وفاق سطيف",
-        "code_name": "ESS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/W7E7_YE0DgT59p43roKaC.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 0
-      },
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "POSTPONED",
-      "start_date_egypt": "2026-05-22 15:00:00",
-      "last_updated_at": "2026-05-18 13:58:47",
-      "competition": "الرابطة الجزائرية المحترفة الأولى",
-      "round": null,
-      "team_a": {
-        "name": "اتحاد خنشلة",
-        "code_name": "KHE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mf_pnrHGx6ca5hF6kEiTt.png"
-      },
-      "team_b": {
-        "name": "مستقبل بلدية الرويسات",
-        "code_name": "MBR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 0
-      },
-      "tv_channels": [],
-      "venue": null
-    },
-    {
       "status": "FIXTURE",
       "start_date_egypt": "2026-05-22 19:00:00",
-      "last_updated_at": "2026-05-22 07:57:55",
+      "last_updated_at": "2026-05-22 09:03:36",
       "competition": "الرابطة الجزائرية المحترفة الأولى",
       "round": null,
       "team_a": {
@@ -1652,9 +1468,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-05-22 10:30:00",
-      "last_updated_at": "2026-05-22 09:55:26",
+      "last_updated_at": "2026-05-22 12:26:33",
       "competition": "الدوري الأندونيسي",
       "round": null,
       "team_a": {
@@ -1668,8 +1484,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/74nbEIUqVsMdBK4JH-Cs9.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 3,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
@@ -1963,9 +1779,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-05-22 12:00:00",
-      "last_updated_at": "2026-05-15 11:27:05",
+      "last_updated_at": "2026-05-22 13:04:17",
       "competition": "الدوري الكازاخستاني الممتاز",
       "round": null,
       "team_a": {
@@ -1979,8 +1795,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
