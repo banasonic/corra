@@ -1,7 +1,7 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-05-25 07:08:46",
-  "matches_count": 91,
+  "fetched_at_egypt": "2026-05-25 11:38:16",
+  "matches_count": 92,
   "matches": [
     {
       "status": "FIXTURE",
@@ -396,6 +396,29 @@
         "name": "يونيون إيسبانولا",
         "code_name": "ESP",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iy5a1mzucfenathcnlhmp95a.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-05-26 03:00:00",
+      "last_updated_at": "2026-05-25 09:10:27",
+      "competition": "الدوري الكولومبي الدرجة الثانية",
+      "round": null,
+      "team_a": {
+        "name": "ريال كارتاجينا",
+        "code_name": "RCA",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1YcXDYs9zfvIj_WKFE6g_.png"
+      },
+      "team_b": {
+        "name": "إينفيجادو",
+        "code_name": "ENV",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/W6Y6DvzZKFZagtKXKcAno.png"
       },
       "score": {
         "team_a": null,
@@ -808,7 +831,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-05-25 20:45:00",
-      "last_updated_at": "2026-04-17 15:26:52",
+      "last_updated_at": "2026-05-25 07:38:24",
       "competition": "الدوري الأيرلندي الدرجة الأولى",
       "round": null,
       "team_a": {
@@ -1969,9 +1992,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-05-25 09:30:00",
-      "last_updated_at": "2026-01-27 21:36:06",
+      "last_updated_at": "2026-05-25 11:26:52",
       "competition": "الدوري الكوري الجنوبي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -1985,16 +2008,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SKfLGNyFtelmcUkIhGZ5u.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-05-25 09:30:00",
-      "last_updated_at": "2026-01-26 10:05:51",
+      "last_updated_at": "2026-05-25 11:29:36",
       "competition": "الدوري الكوري الجنوبي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -2008,8 +2031,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8BxaqpBVPNxw22b0xONcL.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 3,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
