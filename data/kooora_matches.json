@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-06-04 21:46:26",
+  "fetched_at_egypt": "2026-06-04 23:46:12",
   "matches_count": 23,
   "matches": [
     {
@@ -167,9 +167,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-04 21:00:00",
-      "last_updated_at": "2026-06-04 21:29:38",
+      "last_updated_at": "2026-06-04 22:54:46",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -186,20 +186,15 @@
         "team_a": 1,
         "team_b": 1
       },
-      "tv_channels": [
-        {
-          "name": "TOD TV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "ريازور"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-04 21:10:00",
-      "last_updated_at": "2026-06-04 21:10:22",
+      "last_updated_at": "2026-06-04 23:08:58",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -213,15 +208,10 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bceIU_PhJQmfKntaE3Fyp.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 1,
+        "team_b": 2
       },
-      "tv_channels": [
-        {
-          "name": "beIN Sports Mena 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "لا بوجوار"
       }
@@ -439,9 +429,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-04 20:00:00",
-      "last_updated_at": "2026-06-04 21:05:26",
+      "last_updated_at": "2026-06-04 22:46:31",
       "competition": "الدوري المغربي الممتاز",
       "round": null,
       "team_a": {
@@ -458,20 +448,15 @@
         "team_a": 0,
         "team_b": 0
       },
-      "tv_channels": [
-        {
-          "name": "Arryadia HD",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/pFbqcBbuk2UkPcljlkrNu.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "أدرار"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-04 22:00:00",
-      "last_updated_at": "2026-06-04 21:36:23",
+      "last_updated_at": "2026-06-04 23:32:17",
       "competition": "الدوري المغربي الممتاز",
       "round": null,
       "team_a": {
@@ -485,8 +470,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TYExOA4b5nW67a042YhSJ.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 1
       },
       "tv_channels": [
         {
