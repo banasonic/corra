@@ -1,7 +1,7 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-06-04 16:06:29",
-  "matches_count": 24,
+  "fetched_at_egypt": "2026-06-04 19:33:35",
+  "matches_count": 23,
   "matches": [
     {
       "status": "RESULT",
@@ -27,9 +27,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-04 15:00:00",
-      "last_updated_at": "2026-06-04 15:49:48",
+      "last_updated_at": "2026-06-04 17:01:13",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -44,15 +44,15 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 0
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "CANCELLED",
       "start_date_egypt": "2026-06-04 18:00:00",
-      "last_updated_at": "2026-05-31 14:08:52",
+      "last_updated_at": "2026-06-04 18:11:28",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -66,16 +66,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/wn6cMDHbqILJL-BHFPZa8.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-04 18:00:00",
-      "last_updated_at": "2026-05-23 11:27:28",
+      "last_updated_at": "2026-06-04 19:12:16",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -89,8 +89,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jWlO2yoqtz11030zJd5a2.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_channels": [
         {
@@ -101,9 +101,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-04 18:00:00",
-      "last_updated_at": "2026-05-07 10:40:28",
+      "last_updated_at": "2026-06-04 19:26:52",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -117,39 +117,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fn3tHHMXjUzLPBnBKZk0l.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-06-04 18:30:00",
-      "last_updated_at": "2026-06-04 07:16:20",
-      "competition": "المباريات الودية",
-      "round": null,
-      "team_a": {
-        "name": "إيران",
-        "code_name": "إيران",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Kb8I7y2BXPnmhgPC-cstX.png"
-      },
-      "team_b": {
-        "name": "مالي",
-        "code_name": "مالي",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HzJWmESzxvpS7jTN16Ax7.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-04 19:00:00",
-      "last_updated_at": "2026-05-18 15:59:59",
+      "last_updated_at": "2026-06-04 19:01:57",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -163,16 +140,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KV4nqWrnCbnHCDQ4CF74E.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-04 19:00:00",
-      "last_updated_at": "2026-06-03 10:06:51",
+      "last_updated_at": "2026-06-04 19:11:16",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -186,8 +163,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jwATZONfs5HIehss7CMBn.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_channels": [
         {
@@ -302,13 +279,18 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "beIN Sports Mena 3",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/PyMZVVF6KAk0uCaEBvL0C.png"
+        }
+      ],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-04 18:00:00",
-      "last_updated_at": "2026-05-30 12:27:20",
+      "last_updated_at": "2026-06-04 19:18:05",
       "competition": "الرابطة الجزائرية المحترفة الأولى",
       "round": null,
       "team_a": {
@@ -322,16 +304,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmacYj1xKowH8vbo46Zxf.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-04 19:00:00",
-      "last_updated_at": "2026-05-28 11:53:39",
+      "last_updated_at": "2026-06-04 19:00:34",
       "competition": "دوري الدرجة الثالثة الدنماركي",
       "round": null,
       "team_a": {
@@ -345,16 +327,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iHkMV-0mxIAWLckMAo67r.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-04 18:00:00",
-      "last_updated_at": "2026-05-09 21:05:03",
+      "last_updated_at": "2026-06-04 19:26:13",
       "competition": "التصفيات المؤهلة لكأس آسيا",
       "round": null,
       "team_a": {
@@ -368,8 +350,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jTwvKp9cT_7jsOFTOEabL.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_channels": [
         {
@@ -403,9 +385,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-04 19:00:00",
-      "last_updated_at": "2026-06-01 15:45:10",
+      "last_updated_at": "2026-06-04 19:02:08",
       "competition": "أمم أوروبا تحت 17 عاماً",
       "round": null,
       "team_a": {
@@ -419,16 +401,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1c8HwkKB08H2qtgszX8G-.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-04 17:00:00",
-      "last_updated_at": "2026-06-03 15:32:01",
+      "last_updated_at": "2026-06-04 19:00:04",
       "competition": "وديات تحت 21 عاماً",
       "round": null,
       "team_a": {
@@ -442,16 +424,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KEz3-pf7Wj9mz0y8w-T_S.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 3
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-04 18:00:00",
-      "last_updated_at": "2026-06-01 18:18:12",
+      "last_updated_at": "2026-06-04 19:03:51",
       "competition": "وديات تحت 21 عاماً",
       "round": null,
       "team_a": {
@@ -465,8 +447,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8HKdpq03vAufOtEACO8AB.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
@@ -532,9 +514,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-04 19:00:00",
-      "last_updated_at": "2026-01-22 16:12:03",
+      "last_updated_at": "2026-06-04 19:15:29",
       "competition": "الدوري السويدي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -548,16 +530,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c1y2GgNzvc2Oc9Lqex-2T.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-04 19:30:00",
-      "last_updated_at": "2026-01-22 16:11:53",
+      "last_updated_at": "2026-06-04 19:32:32",
       "competition": "الدوري السويدي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -571,16 +553,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ViMcmoalXD3BNC_jobU22.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-04 19:30:00",
-      "last_updated_at": "2026-05-17 13:15:57",
+      "last_updated_at": "2026-06-04 19:31:28",
       "competition": "كأس السويد",
       "round": null,
       "team_a": {
@@ -594,8 +576,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/We3GfA-LalsQZAQH9dsAj.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
