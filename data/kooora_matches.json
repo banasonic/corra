@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-06-08 12:06:49",
+  "fetched_at_egypt": "2026-06-08 16:36:33",
   "matches_count": 30,
   "matches": [
     {
@@ -311,24 +311,24 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-08 15:00:00",
-      "last_updated_at": "2026-06-04 14:38:02",
+      "last_updated_at": "2026-06-08 16:21:02",
       "competition": "وديات تحت 21 عاماً",
       "round": null,
       "team_a": {
-        "name": "أوكرانيا تحت 21",
-        "code_name": "UKR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vEF-Z4SIGFIwVLhsClshc.png"
-      },
-      "team_b": {
         "name": "اليابان تحت 21",
         "code_name": "JPN",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MHfbg7TeA-IB5oDLZpk8u.png"
       },
+      "team_b": {
+        "name": "أوكرانيا تحت 21",
+        "code_name": "UKR",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vEF-Z4SIGFIwVLhsClshc.png"
+      },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 3,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
@@ -403,9 +403,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-08 15:00:00",
-      "last_updated_at": "2026-05-03 20:12:06",
+      "last_updated_at": "2026-06-08 16:33:05",
       "competition": "دورة تولون",
       "round": null,
       "team_a": {
@@ -419,8 +419,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9gEUmcD3N88OgAM1iGEtT.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
