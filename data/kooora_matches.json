@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-06-10 10:32:40",
+  "fetched_at_egypt": "2026-06-10 13:55:31",
   "matches_count": 39,
   "matches": [
     {
@@ -484,9 +484,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-10 13:30:00",
-      "last_updated_at": "2026-05-03 20:08:12",
+      "last_updated_at": "2026-06-10 13:35:29",
       "competition": "دورة تولون",
       "round": null,
       "team_a": {
@@ -500,8 +500,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1n3z1l4g946vrJQ8Vc9jy.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
@@ -641,7 +641,16 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "beIN Sports Mena 3",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/PyMZVVF6KAk0uCaEBvL0C.png"
+        },
+        {
+          "name": "TOD TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
+        }
+      ],
       "venue": {
         "name": "لا روزاليدا"
       }
