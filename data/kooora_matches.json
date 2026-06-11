@@ -1,12 +1,12 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-06-11 21:20:10",
+  "fetched_at_egypt": "2026-06-11 23:35:50",
   "matches_count": 13,
   "matches": [
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-11 21:00:00",
-      "last_updated_at": "2026-06-11 21:14:35",
+      "last_updated_at": "2026-06-11 23:03:43",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -20,23 +20,10 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eHhSpwOcIwpzeLBxPQi5s.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 2,
         "team_b": 0
       },
-      "tv_channels": [
-        {
-          "name": "beIN Sports Mena HD",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3TiS5Xk77HcOb2nzZiauD.png"
-        },
-        {
-          "name": "beIN Sports MENA Max 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/30lIISGKsazDg65k9cKdD.png"
-        },
-        {
-          "name": "beIN Sports MENA Max 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Xxq7GmQOQL6EqKX4fKmzQ.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "أزتيكا"
       }
@@ -168,9 +155,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-11 19:45:00",
-      "last_updated_at": "2026-06-11 21:00:39",
+      "last_updated_at": "2026-06-11 21:39:40",
       "competition": "الدوري الكويتي الممتاز",
       "round": null,
       "team_a": {
