@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-06-13 00:40:55",
+  "fetched_at_egypt": "2026-06-13 02:22:30",
   "matches_count": 51,
   "matches": [
     {
@@ -31,7 +31,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-06-13 03:00:00",
-      "last_updated_at": "2026-06-12 09:22:43",
+      "last_updated_at": "2026-06-13 01:35:31",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -63,9 +63,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-13 02:00:00",
-      "last_updated_at": "2026-04-10 16:44:36",
+      "last_updated_at": "2026-06-13 02:18:53",
       "competition": "دوري تشيلي",
       "round": null,
       "team_a": {
@@ -79,16 +79,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Pe7h6aMvAXaMuTEl8cMIv.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-06-13 01:00:00",
-      "last_updated_at": "2026-06-10 08:57:33",
+      "status": "LIVE",
+      "start_date_egypt": "2026-06-13 01:15:00",
+      "last_updated_at": "2026-06-13 02:04:09",
       "competition": "دوري الدرجة الثالثة الأرجنتيني",
       "round": null,
       "team_a": {
@@ -102,8 +102,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/M_XyWZQAaSt3KKHLoiVOt.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
@@ -274,9 +274,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-13 00:00:00",
-      "last_updated_at": "2026-06-13 00:30:40",
+      "last_updated_at": "2026-06-13 02:02:53",
       "competition": "الدوري البرازيلي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -290,7 +290,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Iq3fNNZcG24hH0vDgXr87.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 3,
         "team_b": 3
       },
       "tv_channels": [],
