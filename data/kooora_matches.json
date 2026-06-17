@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-06-17 00:32:38",
+  "fetched_at_egypt": "2026-06-17 02:02:26",
   "matches_count": 28,
   "matches": [
     {
@@ -29,9 +29,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-17 00:00:00",
-      "last_updated_at": "2026-06-17 00:29:30",
+      "last_updated_at": "2026-06-17 02:00:48",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -45,19 +45,10 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0fmSMr-CdA3m0oQliE26M.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 1
+        "team_a": 1,
+        "team_b": 4
       },
-      "tv_channels": [
-        {
-          "name": "beIN Sports MENA Max 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Xxq7GmQOQL6EqKX4fKmzQ.png"
-        },
-        {
-          "name": "beIN Sports MENA Max 4",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ptBkW5mCMwCna3Bsc_yPL.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "جيليت"
       }
@@ -65,7 +56,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-06-17 03:00:00",
-      "last_updated_at": "2026-06-16 09:30:32",
+      "last_updated_at": "2026-06-17 01:37:39",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -124,9 +115,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-17 01:00:00",
-      "last_updated_at": "2026-06-17 00:27:22",
+      "last_updated_at": "2026-06-17 01:50:30",
       "competition": "الدوري البرازيلي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -140,8 +131,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GDGjzxhVrpO7bep_SKguX.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
