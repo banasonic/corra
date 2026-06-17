@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-06-17 21:47:57",
+  "fetched_at_egypt": "2026-06-18 00:05:16",
   "matches_count": 46,
   "matches": [
     {
@@ -54,9 +54,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-17 22:00:00",
-      "last_updated_at": "2026-06-17 20:34:46",
+      "last_updated_at": "2026-06-18 00:00:32",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -70,19 +70,10 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1yuHJ2XWNyD9MWxmAWWAh.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 4,
+        "team_b": 2
       },
-      "tv_channels": [
-        {
-          "name": "beIN Sports MENA Max 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Xxq7GmQOQL6EqKX4fKmzQ.png"
-        },
-        {
-          "name": "beIN Sports MENA Max 4",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ptBkW5mCMwCna3Bsc_yPL.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "إيه تي آند تي"
       }
@@ -90,7 +81,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-06-18 01:00:00",
-      "last_updated_at": "2026-06-17 09:52:24",
+      "last_updated_at": "2026-06-17 23:43:06",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -156,9 +147,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-17 21:00:00",
-      "last_updated_at": "2026-06-17 21:20:52",
+      "last_updated_at": "2026-06-17 23:05:09",
       "competition": "دوري الولايات المتحدة",
       "round": null,
       "team_a": {
@@ -172,16 +163,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eH_EXst4XxgDBHLFhy_Tv.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-06-18 01:00:00",
-      "last_updated_at": "2026-01-18 16:10:17",
+      "last_updated_at": "2026-06-17 23:52:35",
       "competition": "دوري الولايات المتحدة",
       "round": null,
       "team_a": {
@@ -195,8 +186,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
@@ -248,9 +239,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-17 20:00:00",
-      "last_updated_at": "2026-06-17 21:45:52",
+      "last_updated_at": "2026-06-17 21:58:12",
       "competition": "دوري الدرجة الثانية الأرجنتيني",
       "round": null,
       "team_a": {
@@ -415,9 +406,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-17 20:00:00",
-      "last_updated_at": "2026-06-17 21:14:16",
+      "last_updated_at": "2026-06-17 21:58:14",
       "competition": "الدوري الفنلندي",
       "round": null,
       "team_a": {
@@ -440,9 +431,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-17 20:00:00",
-      "last_updated_at": "2026-06-17 21:20:27",
+      "last_updated_at": "2026-06-17 21:58:15",
       "competition": "الدوري الفنلندي",
       "round": null,
       "team_a": {
@@ -457,7 +448,7 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 1
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": {
