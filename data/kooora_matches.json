@@ -1,12 +1,12 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-06-18 19:18:01",
+  "fetched_at_egypt": "2026-06-18 21:50:42",
   "matches_count": 33,
   "matches": [
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-18 18:00:00",
-      "last_updated_at": "2026-06-18 19:06:24",
+      "last_updated_at": "2026-06-18 19:58:41",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -21,26 +21,17 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 0
+        "team_b": 1
       },
-      "tv_channels": [
-        {
-          "name": "beIN Sports MENA Max 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/30lIISGKsazDg65k9cKdD.png"
-        },
-        {
-          "name": "beIN Sports MENA Max 3",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/qoKRuvggw5NGB4b5bE_DY.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "مرسيدس بنز"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-18 21:00:00",
-      "last_updated_at": "2026-06-17 10:05:23",
+      "last_updated_at": "2026-06-18 21:48:20",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -54,8 +45,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EvIJPxcY71x-kQRgWlcfh.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [
         {
@@ -265,9 +256,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-18 18:00:00",
-      "last_updated_at": "2026-06-18 19:11:11",
+      "last_updated_at": "2026-06-18 19:58:23",
       "competition": "الدوري الجورجي الممتاز",
       "round": null,
       "team_a": {
@@ -281,8 +272,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eJdpfkbe_0jOBA1VwCKCW.png"
       },
       "score": {
-        "team_a": 3,
-        "team_b": 2
+        "team_a": 5,
+        "team_b": 3
       },
       "tv_channels": [],
       "venue": null
@@ -388,9 +379,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-18 19:00:00",
-      "last_updated_at": "2026-06-18 19:02:19",
+      "last_updated_at": "2026-06-18 21:01:59",
       "competition": "الدوري السويدي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -405,15 +396,15 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-18 19:00:00",
-      "last_updated_at": "2026-06-18 19:00:39",
+      "last_updated_at": "2026-06-18 20:57:40",
       "competition": "الدوري السويدي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -427,16 +418,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2HmDtPQRKrrQZmY3lTPMi.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-18 19:00:00",
-      "last_updated_at": "2026-06-18 19:10:08",
+      "last_updated_at": "2026-06-18 21:00:31",
       "competition": "الدوري السويدي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -451,15 +442,15 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 1
+        "team_b": 4
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-18 19:00:00",
-      "last_updated_at": "2026-06-18 19:01:16",
+      "last_updated_at": "2026-06-18 20:53:39",
       "competition": "الدوري السويدي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -473,16 +464,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 2,
         "team_b": 0
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-18 19:00:00",
-      "last_updated_at": "2026-06-18 19:01:16",
+      "last_updated_at": "2026-06-18 21:00:17",
       "competition": "الدوري السويدي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -503,9 +494,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-18 19:00:00",
-      "last_updated_at": "2026-06-18 19:01:16",
+      "last_updated_at": "2026-06-18 21:02:01",
       "competition": "الدوري السويدي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -519,16 +510,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c1y2GgNzvc2Oc9Lqex-2T.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 2,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-18 19:00:00",
-      "last_updated_at": "2026-06-18 19:16:27",
+      "last_updated_at": "2026-06-18 21:00:32",
       "competition": "الدوري السويدي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -542,16 +533,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FIniNsVY376o8RPLfGGgn.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 1
+        "team_a": 3,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-18 19:00:00",
-      "last_updated_at": "2026-06-18 19:01:16",
+      "last_updated_at": "2026-06-18 21:02:13",
       "competition": "الدوري السويدي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -565,16 +556,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/R6YPDZ5SvvU-usObuLnrT.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 3,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-18 19:15:00",
-      "last_updated_at": "2026-06-18 18:36:13",
+      "last_updated_at": "2026-06-18 21:21:17",
       "competition": "الدوري السويدي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -588,16 +579,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LyNZRS94heW5v6gNiUHI5.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-18 19:30:00",
-      "last_updated_at": "2026-06-18 18:50:36",
+      "last_updated_at": "2026-06-18 21:23:47",
       "competition": "الدوري السويدي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -611,8 +602,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yh9qFCKrSuiagBmPHM6km.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
@@ -664,9 +655,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-18 18:00:00",
-      "last_updated_at": "2026-06-18 19:08:17",
+      "last_updated_at": "2026-06-18 19:53:12",
       "competition": "الدوري السويدي للسيدات",
       "round": null,
       "team_a": {
@@ -680,16 +671,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Vsr9C8GEpFNAdUFo-RzY4.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 2,
         "team_b": 0
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-18 18:00:00",
-      "last_updated_at": "2026-06-18 19:08:17",
+      "last_updated_at": "2026-06-18 19:59:51",
       "competition": "الدوري السويدي للسيدات",
       "round": null,
       "team_a": {
@@ -703,16 +694,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dRXurgxPitpl_NagelMc5.png"
       },
       "score": {
-        "team_a": 2,
-        "team_b": 1
+        "team_a": 3,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-18 19:00:00",
-      "last_updated_at": "2026-06-18 19:00:39",
+      "last_updated_at": "2026-06-18 21:01:56",
       "competition": "الدوري السويدي للسيدات",
       "round": null,
       "team_a": {
