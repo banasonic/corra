@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-06-23 21:30:01",
+  "fetched_at_egypt": "2026-06-23 23:17:14",
   "matches_count": 19,
   "matches": [
     {
@@ -29,9 +29,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-23 22:00:00",
-      "last_updated_at": "2026-06-23 20:37:30",
+      "last_updated_at": "2026-06-23 23:08:55",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -45,8 +45,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NU7qndtEZHRIFGHPwd-Ud.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [
         {
@@ -177,9 +177,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-23 21:00:00",
-      "last_updated_at": "2026-06-23 21:01:37",
+      "last_updated_at": "2026-06-23 22:59:39",
       "competition": "كأس تشيلي",
       "round": null,
       "team_a": {
@@ -193,8 +193,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gY2_j89va7Hro9YXAe7-6.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
