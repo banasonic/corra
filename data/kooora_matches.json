@@ -1,12 +1,12 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-06-24 22:20:35",
+  "fetched_at_egypt": "2026-06-24 23:57:22",
   "matches_count": 34,
   "matches": [
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-24 21:00:00",
-      "last_updated_at": "2026-06-24 22:08:36",
+      "last_updated_at": "2026-06-24 22:58:54",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -20,27 +20,18 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9jX3ZBqwaq-jcZ3Do2qEt.png"
       },
       "score": {
-        "team_a": 2,
+        "team_a": 3,
         "team_b": 1
       },
-      "tv_channels": [
-        {
-          "name": "beIN Sports MENA Max 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/30lIISGKsazDg65k9cKdD.png"
-        },
-        {
-          "name": "ALKASS Five",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/OnjNt3fTVQZinwW3Z9Z5g.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "لومن فيلد"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-24 21:00:00",
-      "last_updated_at": "2026-06-24 22:15:44",
+      "last_updated_at": "2026-06-24 22:55:54",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -55,14 +46,9 @@
       },
       "score": {
         "team_a": 2,
-        "team_b": 0
+        "team_b": 1
       },
-      "tv_channels": [
-        {
-          "name": "beIN Sports MENA Max 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Xxq7GmQOQL6EqKX4fKmzQ.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "بي سي بليس"
       }
@@ -70,7 +56,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-06-25 00:00:00",
-      "last_updated_at": "2026-06-23 07:09:24",
+      "last_updated_at": "2026-06-24 22:37:56",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -100,7 +86,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-06-25 00:00:00",
-      "last_updated_at": "2026-06-23 07:13:07",
+      "last_updated_at": "2026-06-24 22:44:27",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -351,7 +337,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-06-24 22:00:00",
-      "last_updated_at": "2026-06-24 22:01:26",
+      "last_updated_at": "2026-06-24 23:07:01",
       "competition": "كأس تشيلي",
       "round": null,
       "team_a": {
