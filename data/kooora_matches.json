@@ -1,7 +1,7 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-06-25 07:50:01",
-  "matches_count": 35,
+  "fetched_at_egypt": "2026-06-25 11:32:56",
+  "matches_count": 36,
   "matches": [
     {
       "status": "FIXTURE",
@@ -186,6 +186,29 @@
       "venue": {
         "name": "صوفي"
       }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-06-25 15:00:00",
+      "last_updated_at": "2026-06-25 08:37:30",
+      "competition": "وديات الأندية",
+      "round": null,
+      "team_a": {
+        "name": "ترومسو",
+        "code_name": "TRO",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6qBqQ5IggP4TLBxcp5sG6.png"
+      },
+      "team_b": {
+        "name": "أورجرايت",
+        "code_name": "ORG",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fWSTkSd_sia09-11jAKmy.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
     },
     {
       "status": "FIXTURE",
