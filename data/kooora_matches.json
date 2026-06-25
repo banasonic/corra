@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-06-25 14:03:43",
+  "fetched_at_egypt": "2026-06-25 17:30:11",
   "matches_count": 36,
   "matches": [
     {
@@ -188,9 +188,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-25 15:00:00",
-      "last_updated_at": "2026-06-25 08:37:30",
+      "last_updated_at": "2026-06-25 16:43:10",
       "competition": "وديات الأندية",
       "round": null,
       "team_a": {
@@ -204,8 +204,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fWSTkSd_sia09-11jAKmy.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
@@ -375,29 +375,6 @@
     },
     {
       "status": "FIXTURE",
-      "start_date_egypt": "2026-06-25 19:45:00",
-      "last_updated_at": "2026-06-17 16:44:05",
-      "competition": "الدوري الكويتي الممتاز",
-      "round": null,
-      "team_a": {
-        "name": "الكويت",
-        "code_name": "ALK",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/a0r8Soo3OzDYMcQRXcnjH.png"
-      },
-      "team_b": {
-        "name": "كاظمة",
-        "code_name": "KAZ",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Zx_5M4zrZ5h1x_tvABv_4.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
       "start_date_egypt": "2026-06-25 20:45:00",
       "last_updated_at": "2026-06-17 16:44:05",
       "competition": "الدوري الكويتي الممتاز",
@@ -421,8 +398,31 @@
     },
     {
       "status": "FIXTURE",
+      "start_date_egypt": "2026-06-25 20:45:00",
+      "last_updated_at": "2026-06-25 15:24:03",
+      "competition": "الدوري الكويتي الممتاز",
+      "round": null,
+      "team_a": {
+        "name": "الكويت",
+        "code_name": "ALK",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/a0r8Soo3OzDYMcQRXcnjH.png"
+      },
+      "team_b": {
+        "name": "كاظمة",
+        "code_name": "KAZ",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Zx_5M4zrZ5h1x_tvABv_4.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "LIVE",
       "start_date_egypt": "2026-06-25 16:00:00",
-      "last_updated_at": "2026-05-26 18:36:50",
+      "last_updated_at": "2026-06-25 17:08:22",
       "competition": "الدوري اللاتفي الممتاز",
       "round": null,
       "team_a": {
@@ -436,16 +436,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ntPLUX-SiuBu2MjqAmVUe.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-25 17:00:00",
-      "last_updated_at": "2026-01-30 16:04:36",
+      "last_updated_at": "2026-06-25 17:02:01",
       "competition": "الدوري اللاتفي الممتاز",
       "round": null,
       "team_a": {
@@ -459,8 +459,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YSrjxV2blw37IWTESMZX_.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
@@ -915,7 +915,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-06-25 18:00:00",
-      "last_updated_at": "2026-01-22 16:15:44",
+      "last_updated_at": "2026-06-25 17:06:17",
       "competition": "الدوري السويدي للسيدات",
       "round": null,
       "team_a": {
