@@ -1,12 +1,12 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-06-30 17:16:14",
+  "fetched_at_egypt": "2026-06-30 19:26:08",
   "matches_count": 24,
   "matches": [
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-30 19:00:00",
-      "last_updated_at": "2026-06-29 11:08:48",
+      "last_updated_at": "2026-06-30 19:02:31",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -20,8 +20,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0fmSMr-CdA3m0oQliE26M.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [
         {
@@ -106,9 +106,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-30 16:00:00",
-      "last_updated_at": "2026-06-30 17:13:46",
+      "last_updated_at": "2026-06-30 17:52:11",
       "competition": "وديات الأندية",
       "round": null,
       "team_a": {
@@ -336,9 +336,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-30 17:00:00",
-      "last_updated_at": "2026-06-30 17:04:31",
+      "last_updated_at": "2026-06-30 19:16:42",
       "competition": "كأس فنلندا",
       "round": null,
       "team_a": {
@@ -352,16 +352,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DAsSnduQb_i5-IYlLoFmB.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 2,
+        "team_b": 3
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-30 17:00:00",
-      "last_updated_at": "2026-06-30 17:02:44",
+      "last_updated_at": "2026-06-30 18:53:38",
       "competition": "الدوري اللاتفي الممتاز",
       "round": null,
       "team_a": {
@@ -375,16 +375,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4Sn54cmSP8OrWe-mT3kdo.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 3,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-30 18:00:00",
-      "last_updated_at": "2026-01-30 16:04:36",
+      "last_updated_at": "2026-06-30 19:24:39",
       "competition": "الدوري اللاتفي الممتاز",
       "round": null,
       "team_a": {
@@ -398,8 +398,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 4,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
