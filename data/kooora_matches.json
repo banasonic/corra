@@ -1,12 +1,12 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-06-30 19:26:08",
+  "fetched_at_egypt": "2026-06-30 21:22:48",
   "matches_count": 24,
   "matches": [
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-30 19:00:00",
-      "last_updated_at": "2026-06-30 19:02:31",
+      "last_updated_at": "2026-06-30 20:58:03",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -20,19 +20,10 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0fmSMr-CdA3m0oQliE26M.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 1,
+        "team_b": 2
       },
-      "tv_channels": [
-        {
-          "name": "beIN Sports MENA Max 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/30lIISGKsazDg65k9cKdD.png"
-        },
-        {
-          "name": "beIN Sports MENA Max 3",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/qoKRuvggw5NGB4b5bE_DY.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "إيه تي آند تي"
       }
@@ -129,9 +120,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-30 20:30:00",
-      "last_updated_at": "2026-06-30 14:24:01",
+      "last_updated_at": "2026-06-30 21:19:06",
       "competition": "وديات الأندية",
       "round": null,
       "team_a": {
@@ -145,16 +136,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VfqJEysE2lww97puFCKM3.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-30 20:45:00",
-      "last_updated_at": "2026-06-29 16:55:31",
+      "last_updated_at": "2026-06-30 21:09:51",
       "competition": "وديات الأندية",
       "round": null,
       "team_a": {
@@ -168,16 +159,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8OYTdiGrjTwdotKkvXEIT.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-06-30 21:00:00",
-      "last_updated_at": "2026-06-23 20:16:53",
+      "last_updated_at": "2026-06-30 21:15:41",
       "competition": "وديات الأندية",
       "round": null,
       "team_a": {
@@ -191,8 +182,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_B6zF7rSi6ZzWs2CoVA_4.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
@@ -382,9 +373,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-06-30 18:00:00",
-      "last_updated_at": "2026-06-30 19:24:39",
+      "last_updated_at": "2026-06-30 19:53:22",
       "competition": "الدوري اللاتفي الممتاز",
       "round": null,
       "team_a": {
