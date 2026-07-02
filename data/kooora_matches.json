@@ -1,12 +1,12 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-07-02 21:41:41",
+  "fetched_at_egypt": "2026-07-02 23:14:41",
   "matches_count": 30,
   "matches": [
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-02 21:00:00",
-      "last_updated_at": "2026-07-02 21:36:21",
+      "last_updated_at": "2026-07-02 22:58:18",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -20,19 +20,10 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/T19ICnLoV3-NAua3l6-zj.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 3,
         "team_b": 0
       },
-      "tv_channels": [
-        {
-          "name": "beIN Sports MENA Max 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/30lIISGKsazDg65k9cKdD.png"
-        },
-        {
-          "name": "beIN Sports MENA Max 3",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/qoKRuvggw5NGB4b5bE_DY.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "صوفي"
       }
@@ -388,9 +379,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-02 21:15:00",
-      "last_updated_at": "2026-07-02 21:39:07",
+      "last_updated_at": "2026-07-02 23:11:59",
       "competition": "الدوري الأيسلندي",
       "round": null,
       "team_a": {
@@ -404,7 +395,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/UIdxRm9F-u7_fqMXnqJk7.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 3,
         "team_b": 2
       },
       "tv_channels": [],
