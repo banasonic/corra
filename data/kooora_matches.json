@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-07-02 00:49:49",
+  "fetched_at_egypt": "2026-07-02 02:14:14",
   "matches_count": 22,
   "matches": [
     {
@@ -29,9 +29,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-01 22:00:00",
-      "last_updated_at": "2026-07-02 00:47:54",
+      "last_updated_at": "2026-07-02 00:49:53",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -48,24 +48,15 @@
         "team_a": 3,
         "team_b": 2
       },
-      "tv_channels": [
-        {
-          "name": "beIN Sports MENA Max 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Xxq7GmQOQL6EqKX4fKmzQ.png"
-        },
-        {
-          "name": "beIN Sports MENA Max 4",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ptBkW5mCMwCna3Bsc_yPL.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "لومن فيلد"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-02 02:00:00",
-      "last_updated_at": "2026-07-02 00:37:51",
+      "last_updated_at": "2026-07-02 02:13:13",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -79,8 +70,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EvIJPxcY71x-kQRgWlcfh.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [
         {
@@ -145,7 +136,7 @@
     {
       "status": "RESULT",
       "start_date_egypt": "2026-07-01 22:00:00",
-      "last_updated_at": "2026-07-02 00:13:14",
+      "last_updated_at": "2026-07-02 01:49:13",
       "competition": "الدوري الكندي الممتاز",
       "round": null,
       "team_a": {
@@ -166,9 +157,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-01 23:30:00",
-      "last_updated_at": "2026-07-02 00:48:04",
+      "last_updated_at": "2026-07-02 01:49:08",
       "competition": "دوري الولايات المتحدة  الدرجة الثالثة",
       "round": null,
       "team_a": {
@@ -189,9 +180,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-02 01:00:00",
-      "last_updated_at": "2026-01-18 16:10:34",
+      "last_updated_at": "2026-07-02 02:12:39",
       "competition": "دوري الولايات المتحدة  الدرجة الثالثة",
       "round": null,
       "team_a": {
@@ -205,8 +196,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
@@ -306,9 +297,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-02 00:00:00",
-      "last_updated_at": "2026-07-02 00:45:55",
+      "last_updated_at": "2026-07-02 01:59:08",
       "competition": "كأس تشيلي",
       "round": null,
       "team_a": {
@@ -322,16 +313,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NJ_dBoV6WhWD0Dfz0NEmn.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 1
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-02 00:00:00",
-      "last_updated_at": "2026-07-02 00:47:32",
+      "last_updated_at": "2026-07-02 01:54:56",
       "competition": "كأس تشيلي",
       "round": null,
       "team_a": {
@@ -346,7 +337,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
@@ -375,9 +366,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-02 00:00:00",
-      "last_updated_at": "2026-07-02 00:33:34",
+      "last_updated_at": "2026-07-02 01:58:24",
       "competition": "الدوري الإكوادوري",
       "round": null,
       "team_a": {
@@ -391,16 +382,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/C5AoP3BktPQiBWcR9id_1.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 3,
         "team_b": 0
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-07-02 02:00:00",
-      "last_updated_at": "2026-06-30 07:45:40",
+      "last_updated_at": "2026-07-02 02:04:39",
       "competition": "الدوري الإكوادوري",
       "round": null,
       "team_a": {
@@ -414,8 +405,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/wF-s6Z4WEBixCSoIDvrl7.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
