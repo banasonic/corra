@@ -1,12 +1,12 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-07-06 16:44:02",
+  "fetched_at_egypt": "2026-07-06 19:47:20",
   "matches_count": 16,
   "matches": [
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-07-06 21:00:00",
-      "last_updated_at": "2026-07-04 15:21:51",
+      "last_updated_at": "2026-07-06 19:35:30",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -281,9 +281,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-06 18:00:00",
-      "last_updated_at": "2026-01-30 16:04:37",
+      "last_updated_at": "2026-07-06 19:36:26",
       "competition": "الدوري اللاتفي الممتاز",
       "round": null,
       "team_a": {
@@ -297,16 +297,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-06 17:45:00",
-      "last_updated_at": "2026-07-01 14:49:58",
+      "last_updated_at": "2026-07-06 19:34:26",
       "competition": "الدوري الليتواني",
       "round": null,
       "team_a": {
@@ -320,16 +320,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-47ztI64r6o33Byym-v6D.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-06 19:00:00",
-      "last_updated_at": "2026-05-22 10:39:21",
+      "last_updated_at": "2026-07-06 19:36:26",
       "competition": "الدوري السويدي الممتاز",
       "round": null,
       "team_a": {
@@ -343,8 +343,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/B4oI24eZTS8fPenFT5PHB.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": {
@@ -352,9 +352,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-06 19:00:00",
-      "last_updated_at": "2026-05-22 10:39:21",
+      "last_updated_at": "2026-07-06 19:41:26",
       "competition": "الدوري السويدي الممتاز",
       "round": null,
       "team_a": {
@@ -368,8 +368,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1S7eP5P1XgRigllMHeKta.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": {
