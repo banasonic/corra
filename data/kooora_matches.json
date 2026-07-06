@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-07-06 23:59:39",
+  "fetched_at_egypt": "2026-07-07 01:18:52",
   "matches_count": 16,
   "matches": [
     {
@@ -31,7 +31,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-07-07 02:00:00",
-      "last_updated_at": "2026-07-05 11:15:47",
+      "last_updated_at": "2026-07-07 00:34:37",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -63,9 +63,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-07 00:00:00",
-      "last_updated_at": "2026-07-06 23:26:36",
+      "last_updated_at": "2026-07-07 01:15:07",
       "competition": "الدوري البرازيلي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -79,16 +79,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-nNaJgOLKASxOBGOQ2g9G.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-07 00:00:00",
-      "last_updated_at": "2026-07-06 23:25:18",
+      "last_updated_at": "2026-07-07 01:14:11",
       "competition": "الدوري البرازيلي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -102,16 +102,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BjAoAwPMcyUy6CBRwE4Ue.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-07 00:00:00",
-      "last_updated_at": "2026-07-06 23:27:51",
+      "last_updated_at": "2026-07-07 01:17:03",
       "competition": "الدوري البرازيلي الدرجة الثالثة",
       "round": null,
       "team_a": {
@@ -125,8 +125,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/phmkbUeg_lcWvDt-oWl0R.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 3,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
@@ -203,7 +203,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-07-06 23:30:00",
-      "last_updated_at": "2026-07-06 23:33:26",
+      "last_updated_at": "2026-07-07 01:16:35",
       "competition": "الدوري الإكوادوري",
       "round": null,
       "team_a": {
@@ -217,8 +217,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/guKT7HMxwKGT2nWYDf7_q.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 1,
+        "team_b": 3
       },
       "tv_channels": [],
       "venue": null
@@ -368,9 +368,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-06 23:00:00",
-      "last_updated_at": "2026-07-06 23:51:48",
+      "last_updated_at": "2026-07-07 01:03:40",
       "competition": "دوري أوروجواي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -385,7 +385,7 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 0
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
