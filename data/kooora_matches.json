@@ -1,7 +1,7 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-07-08 13:25:37",
-  "matches_count": 29,
+  "fetched_at_egypt": "2026-07-08 15:12:37",
+  "matches_count": 30,
   "matches": [
     {
       "status": "FIXTURE",
@@ -202,9 +202,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-08 12:00:00",
-      "last_updated_at": "2026-07-08 13:14:07",
+      "last_updated_at": "2026-07-08 14:04:44",
       "competition": "وديات الأندية",
       "round": null,
       "team_a": {
@@ -225,9 +225,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-08 12:00:00",
-      "last_updated_at": "2026-07-08 12:57:30",
+      "last_updated_at": "2026-07-08 13:44:04",
       "competition": "وديات الأندية",
       "round": null,
       "team_a": {
@@ -248,9 +248,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-08 14:00:00",
-      "last_updated_at": "2026-07-05 10:29:50",
+      "last_updated_at": "2026-07-08 15:02:50",
       "competition": "وديات الأندية",
       "round": null,
       "team_a": {
@@ -264,8 +264,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rRIzwRlH75PlIxl4tm4w7.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
@@ -331,6 +331,29 @@
         "name": "روبن كازان",
         "code_name": "RK",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gr-3vkuPn68y7AnEZqk27.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-08 19:30:00",
+      "last_updated_at": "2026-07-08 14:10:15",
+      "competition": "وديات الأندية",
+      "round": null,
+      "team_a": {
+        "name": "آدم / مودلينج",
+        "code_name": "ADM",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lv-oCLVehOEo9gLxM_gyH.png"
+      },
+      "team_b": {
+        "name": "فنربخشه",
+        "code_name": "فنربخشه",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_exgztvNgcpD9d4fNWmAS.png"
       },
       "score": {
         "team_a": null,
@@ -593,9 +616,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-08 15:00:00",
-      "last_updated_at": "2026-07-05 19:36:24",
+      "last_updated_at": "2026-07-08 15:02:08",
       "competition": "أمم أوروبا تحت 19 عاماً",
       "round": null,
       "team_a": {
@@ -609,8 +632,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IEHSIAtAVVveil_ZHzcKd.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [
         {
@@ -677,9 +700,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-08 15:00:00",
-      "last_updated_at": "2026-07-07 16:45:05",
+      "last_updated_at": "2026-07-08 15:01:09",
       "competition": "الدوري التنزاني الممتاز - ملحق الصعود والهبوط",
       "round": null,
       "team_a": {
@@ -693,8 +716,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LZFyD77BQusGsMSr0xag3.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
