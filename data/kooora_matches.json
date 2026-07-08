@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-07-08 00:40:47",
+  "fetched_at_egypt": "2026-07-08 02:02:32",
   "matches_count": 22,
   "matches": [
     {
@@ -29,9 +29,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-07 22:00:00",
-      "last_updated_at": "2026-07-08 00:35:21",
+      "last_updated_at": "2026-07-08 00:50:42",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -48,16 +48,7 @@
         "team_a": 0,
         "team_b": 0
       },
-      "tv_channels": [
-        {
-          "name": "beIN Sports MENA Max 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Xxq7GmQOQL6EqKX4fKmzQ.png"
-        },
-        {
-          "name": "beIN Sports MENA Max 4",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ptBkW5mCMwCna3Bsc_yPL.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "بي سي بليس"
       }
@@ -432,9 +423,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-08 01:00:00",
-      "last_updated_at": "2026-07-02 09:26:28",
+      "last_updated_at": "2026-07-08 01:43:41",
       "competition": "الدوري البوليفي",
       "round": null,
       "team_a": {
@@ -448,16 +439,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DguUW8Q0ixEQkuy5lBZ8-.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-08 01:00:00",
-      "last_updated_at": "2026-07-08 00:25:19",
+      "last_updated_at": "2026-07-08 01:49:19",
       "competition": "الدوري البرازيلي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -471,16 +462,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aSOQX0aLzVKBYPuwAVTnx.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-08 02:00:00",
-      "last_updated_at": "2026-07-02 12:04:39",
+      "last_updated_at": "2026-07-08 02:00:37",
       "competition": "الدوري الإكوادوري",
       "round": null,
       "team_a": {
@@ -494,8 +485,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rTfeku3v0qM6dSSbcc14P.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
