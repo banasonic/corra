@@ -1,7 +1,7 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-07-08 08:35:09",
-  "matches_count": 28,
+  "fetched_at_egypt": "2026-07-08 11:12:10",
+  "matches_count": 29,
   "matches": [
     {
       "status": "FIXTURE",
@@ -179,9 +179,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-08 10:30:00",
-      "last_updated_at": "2026-07-07 11:31:28",
+      "last_updated_at": "2026-07-08 10:42:27",
       "competition": "وديات الأندية",
       "round": null,
       "team_a": {
@@ -195,8 +195,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nk71Cuarm0DSx2LimgQIZ.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
@@ -515,6 +515,29 @@
         "name": "فورج",
         "code_name": "FOR",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_m00w4JdyyO42LAreNjz2.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-09 01:00:00",
+      "last_updated_at": "2026-07-08 09:43:56",
+      "competition": "الدوري الكندي الدرجة الأولى",
+      "round": null,
+      "team_a": {
+        "name": "Supra du Quebec",
+        "code_name": "SDQ",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
+      },
+      "team_b": {
+        "name": "اتلتيكو اوتاوا",
+        "code_name": "ATO",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uiplEZNoebEdfd8E72V7m.png"
       },
       "score": {
         "team_a": null,
