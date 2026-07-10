@@ -1,773 +1,1267 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-07-10 02:10:10",
-  "matches_count": 31,
+  "fetched_at_egypt": "2026-07-10 06:36:44",
+  "matches_count": 54,
   "matches": [
     {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 22:00:00",
-      "last_updated_at": "2026-07-10 00:00:48",
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 21:00:00",
+      "last_updated_at": "2026-07-09 16:23:25",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
-        "name": "فرنسا",
-        "code_name": "فرنسا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DN3bHlyvTKmhgvutsTwkY.png"
+        "name": "إسبانيا",
+        "code_name": "إسبانيا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/tWJpSRBaQUYeHeHom-XqI.png"
       },
       "team_b": {
-        "name": "المغرب",
-        "code_name": "المغرب",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fUywga5rPodLl9WOl6Ljz.png"
+        "name": "بلجيكا",
+        "code_name": "بلجيكا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Lzc7Vfm3cmIBLzko8O-_k.png"
       },
       "score": {
-        "team_a": 2,
-        "team_b": 0
+        "team_a": null,
+        "team_b": null
       },
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "beIN Sports MENA Max 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/30lIISGKsazDg65k9cKdD.png"
+        },
+        {
+          "name": "beIN Sports MENA Max 3",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/qoKRuvggw5NGB4b5bE_DY.png"
+        }
+      ],
       "venue": {
-        "name": "جيليت"
+        "name": "صوفي"
       }
     },
     {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 18:00:00",
-      "last_updated_at": "2026-07-09 19:52:45",
-      "competition": "التصفيات المؤهلة للدوري الأوروبي",
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-11 02:00:00",
+      "last_updated_at": "2026-01-30 08:35:12",
+      "competition": "الدوري الأمريكي للسيدات",
       "round": null,
       "team_a": {
-        "name": "كاراباج",
-        "code_name": "كاراباخ",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/30vZK0Os1U2vIIkadPZre.png"
+        "name": "Boston Legacy FC",
+        "code_name": "BOL",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dzII9Wj3JHFrUMXL5vp7O.png"
       },
       "team_b": {
-        "name": "فيستري",
-        "code_name": "VST",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MPjg9sgy_lNujWd4XABb4.png"
+        "name": "شيكاغو ريد ستارز",
+        "code_name": "CST",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fqIDkA4Sa_IhXl9nTXehQ.png"
       },
       "score": {
-        "team_a": 3,
-        "team_b": 0
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-11 02:00:00",
+      "last_updated_at": "2026-01-30 08:35:12",
+      "competition": "الدوري الأمريكي للسيدات",
+      "round": null,
+      "team_a": {
+        "name": "اورلاندو بريد",
+        "code_name": "ORL",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Q7NvV1QMOZiT9DkSVVlrU.png"
+      },
+      "team_b": {
+        "name": "كانساس سيتي",
+        "code_name": "KAN",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TbJHiNOTwTTiFsjoOJgvf.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-11 02:00:00",
+      "last_updated_at": "2026-01-30 08:35:12",
+      "competition": "الدوري الأمريكي للسيدات",
+      "round": null,
+      "team_a": {
+        "name": "راسينغ لويزفيل",
+        "code_name": "RLO",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cgAxpDQ23xPhA15XqB9b1.png"
+      },
+      "team_b": {
+        "name": "باي إف سي",
+        "code_name": "BAY",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eka22bj7co8bw5qxa6qlbinf8.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-11 04:00:00",
+      "last_updated_at": "2026-01-30 08:35:12",
+      "competition": "الدوري الأمريكي للسيدات",
+      "round": null,
+      "team_a": {
+        "name": "يوتا رويالز",
+        "code_name": "UTA",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5IdrXPODY_IolgBYgvCFS.png"
+      },
+      "team_b": {
+        "name": "سكاي بلو",
+        "code_name": "GOT",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PwL7G0xJg9lQKMDTVKvpw.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 11:30:00",
+      "last_updated_at": "2026-07-07 13:12:47",
+      "competition": "وديات الأندية",
+      "round": null,
+      "team_a": {
+        "name": "كامبور",
+        "code_name": "CAM",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FtUJ6G0vkYqBdZgtil7_s.png"
+      },
+      "team_b": {
+        "name": "رودا",
+        "code_name": "ROD",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NdoJoYB76DBYC5kuq6pFw.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 12:00:00",
+      "last_updated_at": "2026-07-09 13:12:19",
+      "competition": "وديات الأندية",
+      "round": null,
+      "team_a": {
+        "name": "برمنجهام سيتي",
+        "code_name": "BIR",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w87I_BEoFYqpdY2S4ePJJ.png"
+      },
+      "team_b": {
+        "name": "هدرسفيلد تاون",
+        "code_name": "HUD",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/27GMyacsLXbKc-ZgIKuW5.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 12:00:00",
+      "last_updated_at": "2026-06-09 12:17:16",
+      "competition": "وديات الأندية",
+      "round": null,
+      "team_a": {
+        "name": "هولشتاين كيل",
+        "code_name": "HSK",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fh7vyaE3X4JP9iROOvOL2.png"
+      },
+      "team_b": {
+        "name": "سونديريسكي",
+        "code_name": "SON",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ZbCdjqr6HrCLSd246aesE.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 13:00:00",
+      "last_updated_at": "2026-07-09 12:16:34",
+      "competition": "وديات الأندية",
+      "round": null,
+      "team_a": {
+        "name": "إف سي نوردسيايلاند",
+        "code_name": "FCN",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/epUz-4Ys2oUs0PcIDMkTJ.png"
+      },
+      "team_b": {
+        "name": "هراديك كرالوف",
+        "code_name": "HRA",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hn3gj7HCKjFH9tp2cf5eT.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 13:00:00",
+      "last_updated_at": "2026-06-15 12:18:13",
+      "competition": "وديات الأندية",
+      "round": null,
+      "team_a": {
+        "name": "أوستيرز آي إف",
+        "code_name": "OST",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RQb6KfR9Ls5unC8RicLnA.png"
+      },
+      "team_b": {
+        "name": "لاينجبي",
+        "code_name": "LYN",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AN4yoTnxlNbW2qMeHzSOT.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 15:30:00",
+      "last_updated_at": "2026-06-11 14:55:17",
+      "competition": "وديات الأندية",
+      "round": null,
+      "team_a": {
+        "name": "فيكتوريا بلزن",
+        "code_name": "فيكتوريا بلزن",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NWXbwvITfz5VDa27SauSA.png"
+      },
+      "team_b": {
+        "name": "يونج بويز",
+        "code_name": "يونج بويز",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qPMtaYDeypTdTXZnCuM1F.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 16:00:00",
+      "last_updated_at": "2026-07-09 13:12:20",
+      "competition": "وديات الأندية",
+      "round": null,
+      "team_a": {
+        "name": "ستوك سيتي",
+        "code_name": "STK",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qauMwUZs0n2pk6GB_LhSY.png"
+      },
+      "team_b": {
+        "name": "سبورتنج براجا",
+        "code_name": "براجا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c_TRfqNJy9JxbIixew4NW.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 17:00:00",
+      "last_updated_at": "2026-07-09 12:16:34",
+      "competition": "وديات الأندية",
+      "round": null,
+      "team_a": {
+        "name": "إف سي نوردسيايلاند",
+        "code_name": "FCN",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/epUz-4Ys2oUs0PcIDMkTJ.png"
+      },
+      "team_b": {
+        "name": "جورنيك زابرزي",
+        "code_name": "GOR",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RmCJID43wO3yokUx7RyuZ.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 18:00:00",
+      "last_updated_at": "2026-07-07 13:06:56",
+      "competition": "وديات الأندية",
+      "round": null,
+      "team_a": {
+        "name": "أياكس",
+        "code_name": "أياكس",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ekYAK9HhpnfV1PbrNKteT.png"
+      },
+      "team_b": {
+        "name": "لارناكا",
+        "code_name": "AEK",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KNcHKs9-7feDJWDpnlq7v.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 18:00:00",
+      "last_updated_at": "2026-07-09 13:12:20",
+      "competition": "وديات الأندية",
+      "round": null,
+      "team_a": {
+        "name": "ماريبور",
+        "code_name": "MAR",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yae6QyIGRYBiPw82BVqbx.png"
+      },
+      "team_b": {
+        "name": "تشارلتون أثليتك",
+        "code_name": "CHA",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2ezfenuwk3y65p8jdbj55xqt0.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 20:45:00",
+      "last_updated_at": "2026-07-09 13:12:20",
+      "competition": "وديات الأندية",
+      "round": null,
+      "team_a": {
+        "name": "ليفنجستون",
+        "code_name": "LIV",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VfqJEysE2lww97puFCKM3.png"
+      },
+      "team_b": {
+        "name": "هارتس",
+        "code_name": "HEA",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4BTIkdBd_rRF9ZpCmIeNn.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 18:00:00",
+      "last_updated_at": "2026-07-06 12:33:02",
+      "competition": "دوري الدرجة الثالثة الأرجنتيني",
+      "round": null,
+      "team_a": {
+        "name": "ريال بايلار",
+        "code_name": "PIL",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kyxnQJt6chH-DAk3LJ-LV.png"
+      },
+      "team_b": {
+        "name": "CASD Camioneros",
+        "code_name": "CAM",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jxKdOQxBl6i4LoGMmpqlo.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 18:00:00",
+      "last_updated_at": "2026-07-06 12:33:02",
+      "competition": "دوري الدرجة الثالثة الأرجنتيني",
+      "round": null,
+      "team_a": {
+        "name": "فيا سان كارلوس",
+        "code_name": "VIS",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Mfjz7VwJyeVpgdzq4jjwW.png"
+      },
+      "team_b": {
+        "name": "سان مارتن بورزاكو",
+        "code_name": "SMB",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/joytR8rz8r4ULjdjrMq1_.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 19:00:00",
+      "last_updated_at": "2026-07-06 12:33:02",
+      "competition": "دوري الدرجة الثالثة الأرجنتيني",
+      "round": null,
+      "team_a": {
+        "name": "آرسنال إس",
+        "code_name": "ARS",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gwogfP0t2fwjyIEXPCa2P.png"
+      },
+      "team_b": {
+        "name": "ديفينسوريس يونايدوس",
+        "code_name": "UNI",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rPlRM1vN_WoIJINSlTdUo.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 19:00:00",
+      "last_updated_at": "2026-07-06 12:33:02",
+      "competition": "دوري الدرجة الثالثة الأرجنتيني",
+      "round": null,
+      "team_a": {
+        "name": "ديبرتيفو لافيريري",
+        "code_name": "LAF",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mmQnORAor_3Nd9-Xr97od.png"
+      },
+      "team_b": {
+        "name": "ديبورتيفو أرمينيو",
+        "code_name": "DEA",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uEk6vcassf-tM_oF7_o9r.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 20:00:00",
+      "last_updated_at": "2026-07-06 12:33:02",
+      "competition": "دوري الدرجة الثالثة الأرجنتيني",
+      "round": null,
+      "team_a": {
+        "name": "أرجنتينو ميرلو",
+        "code_name": "ADM",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sq_vqKncN-lIBYCZOjwkE.png"
+      },
+      "team_b": {
+        "name": "ارجينتينو كويلميس",
+        "code_name": "ADQ",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NLi_h_lXVSVjiStl1biP6.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 20:00:00",
+      "last_updated_at": "2026-07-06 12:33:02",
+      "competition": "دوري الدرجة الثالثة الأرجنتيني",
+      "round": null,
+      "team_a": {
+        "name": "براون دي أدروغ",
+        "code_name": "BRD",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3wq0pcmpie2adjvebk0vsu5m7.png"
+      },
+      "team_b": {
+        "name": "إيتوزاينغو",
+        "code_name": "ITU",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lUkMO3fQ8hM-_Sn4sj725.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 20:00:00",
+      "last_updated_at": "2026-07-06 12:33:03",
+      "competition": "دوري الدرجة الثالثة الأرجنتيني",
+      "round": null,
+      "team_a": {
+        "name": "تاييريس ريميديوس دي ايسكالادا",
+        "code_name": "CAT",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kqHHHf0lF3Aqmzfy8KGHB.png"
+      },
+      "team_b": {
+        "name": "فلاندريا",
+        "code_name": "FLA",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pWOcEheOzS12cLQO8_ETy.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 20:00:00",
+      "last_updated_at": "2026-07-06 12:33:03",
+      "competition": "دوري الدرجة الثالثة الأرجنتيني",
+      "round": null,
+      "team_a": {
+        "name": "يورغويزا",
+        "code_name": "URG",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DCfBBVws8Pm3Sdw4cm9sQ.png"
+      },
+      "team_b": {
+        "name": "ديبورتيفو ميرلو",
+        "code_name": "DEM",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TGRHllnVVbyBRLn0_JxyV.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 20:00:00",
+      "last_updated_at": "2026-07-06 12:33:03",
+      "competition": "دوري الدرجة الثالثة الأرجنتيني",
+      "round": null,
+      "team_a": {
+        "name": "لينيرس",
+        "code_name": "LIN",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/wM_iGXriBhJ-rA7R3P3g7.png"
+      },
+      "team_b": {
+        "name": "سبورتيفو إيطاليانو",
+        "code_name": "SPI",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9dQnkg2m8difmuYNbVDl_.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 20:00:00",
+      "last_updated_at": "2026-07-06 12:33:02",
+      "competition": "دوري الدرجة الثالثة الأرجنتيني",
+      "round": null,
+      "team_a": {
+        "name": "اكسكورسيانيستاس",
+        "code_name": "EXC",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MwOgyRo_FwmQ-tZbM_nkM.png"
+      },
+      "team_b": {
+        "name": "كوميونيكاسيونيس",
+        "code_name": "COM",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q-CDuMFuOKW34ByyR356z.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 20:00:00",
+      "last_updated_at": "2026-07-06 12:33:03",
+      "competition": "دوري الدرجة الثالثة الأرجنتيني",
+      "round": null,
+      "team_a": {
+        "name": "فيا دالمين",
+        "code_name": "VID",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/M_XyWZQAaSt3KKHLoiVOt.png"
+      },
+      "team_b": {
+        "name": "دوك سود",
+        "code_name": "DOS",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BuTypglMzLwzS2XCbFDf4.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 17:30:00",
+      "last_updated_at": "2026-06-24 11:59:40",
+      "competition": "دوري بيلاروسيا الممتاز",
+      "round": null,
+      "team_a": {
+        "name": "دنيبر موجيليف",
+        "code_name": "DMO",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RC99Cwf5iMy22Z3cil3vt.png"
+      },
+      "team_b": {
+        "name": "إف سي مينسك",
+        "code_name": "FCM",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YUVKddGQAzQCW58_88EPd.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
       },
       "tv_channels": [],
       "venue": {
-        "name": "توفيك باخراموف ستاديوم"
+        "name": "Spartak Stadion, Mogilev"
       }
     },
     {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 19:00:00",
-      "last_updated_at": "2026-07-09 21:03:31",
-      "competition": "التصفيات المؤهلة للدوري الأوروبي",
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-11 00:00:00",
+      "last_updated_at": "2026-05-28 11:51:30",
+      "competition": "الدوري البرازيلي الدرجة الثانية",
       "round": null,
       "team_a": {
-        "name": "دينامو كييف",
-        "code_name": "دينامو كييف",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4s3LkG2XTJVd9wtgo1xNZ.png"
+        "name": "جوفينتود",
+        "code_name": "JUV",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hQiPNzzIixKmnW1v7Smbe.png"
       },
       "team_b": {
-        "name": "يونيفيرسيتاتي كلوج",
-        "code_name": "UNC",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lKMqP4OyRZQDwknV77RZ9.png"
+        "name": "فيلا نوفا",
+        "code_name": "VLN",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LJ6-laulrDo2XU6ECuVg2.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-11 01:00:00",
+      "last_updated_at": "2026-05-28 11:51:30",
+      "competition": "الدوري البرازيلي الدرجة الثانية",
+      "round": null,
+      "team_a": {
+        "name": "سبورت",
+        "code_name": "SPO",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EatkQWxPCE_LyNDiDMCN5.png"
+      },
+      "team_b": {
+        "name": "بوتافوجو إس بي",
+        "code_name": "BSP",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JPB4vWQuCKT565Cx30AjS.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 13:35:00",
+      "last_updated_at": "2026-02-16 22:13:09",
+      "competition": "دوري السوبر الصيني",
+      "round": null,
+      "team_a": {
+        "name": "شاندونج تايشان",
+        "code_name": "شاندونج",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vQhLQCJxT-kQIxhbN06Wy.png"
+      },
+      "team_b": {
+        "name": "يونا يوكون",
+        "code_name": "YUY",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/laoiO2FrEHdyV1yeC1Ked.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
       },
       "tv_channels": [],
       "venue": {
-        "name": "Arena Lublin"
+        "name": "Jinan Olympic Sports Center Stadium"
       }
     },
     {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 19:00:00",
-      "last_updated_at": "2026-07-09 20:56:21",
-      "competition": "التصفيات المؤهلة للدوري الأوروبي",
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-11 00:00:00",
+      "last_updated_at": "2026-07-02 12:04:39",
+      "competition": "الدوري الإكوادوري",
       "round": null,
       "team_a": {
-        "name": "إف سي شيريف",
-        "code_name": "FCS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IuEb4TmfItN_nfiUqMdgy.png"
+        "name": "Leones del Norte",
+        "code_name": "LDN",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/R_0SEmleU8AuxY7IXzDHV.png"
       },
       "team_b": {
-        "name": "آلومينيي",
-        "code_name": "ALU",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/peBRo1gsJMGcSXHV2a0h7.png"
+        "name": "أونيفرسيداد كاتوليكا كيتو",
+        "code_name": "UNI",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/J1FbXX69QpSbNZkH50RPQ.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": null,
+        "team_b": null
       },
       "tv_channels": [],
-      "venue": {
-        "name": "شريف"
-      }
+      "venue": null
     },
     {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 20:00:00",
-      "last_updated_at": "2026-07-09 21:53:31",
-      "competition": "التصفيات المؤهلة للدوري الأوروبي",
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-11 02:15:00",
+      "last_updated_at": "2026-07-02 12:04:39",
+      "competition": "الدوري الإكوادوري",
       "round": null,
       "team_a": {
-        "name": "سسكا صوفيا",
-        "code_name": "CSS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YClTub2_rG1nbEuPQGoKq.png"
+        "name": "تيكنيكو يونيفيرسيتاريو",
+        "code_name": "TEC",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/y-YL5PN-spbXCNYk1O5L-.png"
       },
       "team_b": {
-        "name": "ديري",
-        "code_name": "DER",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4Kig5DzIOFTjelAzGv8TL.png"
+        "name": "ديبورتيفو ماكارا",
+        "code_name": "DMA",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EffTjr4H4xPZ_6YOQGwPe.png"
       },
       "score": {
-        "team_a": 3,
-        "team_b": 2
+        "team_a": null,
+        "team_b": null
       },
       "tv_channels": [],
-      "venue": {
-        "name": "فاسيل ليفسكي"
-      }
+      "venue": null
     },
     {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 20:00:00",
-      "last_updated_at": "2026-07-09 21:50:25",
-      "competition": "التصفيات المؤهلة للدوري الأوروبي",
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 18:00:00",
+      "last_updated_at": "2026-02-01 13:32:06",
+      "competition": "الدوري الأستوني",
       "round": null,
       "team_a": {
-        "name": "هايدوك سبليت",
-        "code_name": "HAS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EJd6EkdMreAZe_m1y8qFE.png"
-      },
-      "team_b": {
-        "name": "زيلينا",
-        "code_name": "ZIL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CotmzYMfxbb_9BHUg-JHw.png"
-      },
-      "score": {
-        "team_a": 2,
-        "team_b": 0
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "Stadion Poljud"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 20:00:00",
-      "last_updated_at": "2026-07-09 21:54:34",
-      "competition": "التصفيات المؤهلة للدوري الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "فويفودينا",
-        "code_name": "VOJ",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vM3Tn60o9zBl8iVez0EkR.png"
-      },
-      "team_b": {
-        "name": "فيرينتسفاروشي",
-        "code_name": "فيرينتسفاروشي",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zgjphisfq_3nRpSdLtg-Q.png"
-      },
-      "score": {
-        "team_a": 1,
-        "team_b": 2
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "Karadjordje Stadium"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 16:00:00",
-      "last_updated_at": "2026-07-09 18:43:10",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "أتلتيك إيسكالديس",
-        "code_name": "ATE",
+        "name": "هارجو جالجباليكول",
+        "code_name": "HAJ",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "team_b": {
-        "name": "مورنار",
-        "code_name": "MOR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/j3fD8f77TTpKsOEoTXogk.png"
+        "name": "ترانس نارفا",
+        "code_name": "NTR",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/C059hHum5yli8PQclpghU.png"
       },
       "score": {
-        "team_a": 2,
-        "team_b": 1
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 18:00:00",
+      "last_updated_at": "2026-01-21 15:17:28",
+      "competition": "الدوري الفنلندي",
+      "round": null,
+      "team_a": {
+        "name": "في بي إس",
+        "code_name": "VPS",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GVPMWIR2V1bODvjeWp8G5.png"
+      },
+      "team_b": {
+        "name": "ساينايوين جي ك",
+        "code_name": "SJK",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8Yq8vHmbq8yhn6CjhMIMd.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
       },
       "tv_channels": [],
       "venue": {
-        "name": "Estadi Nacional d'Andorra"
+        "name": "Hietalahden jalkapallostadion"
       }
     },
     {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 18:00:00",
-      "last_updated_at": "2026-07-09 20:13:36",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 16:30:00",
+      "last_updated_at": "2026-02-12 12:20:03",
+      "competition": "الدوري الفنلندي الدرجة الثالثة",
       "round": null,
       "team_a": {
-        "name": "ألاشكيرت",
-        "code_name": "ALA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FmPZZa2swWjLtoT5bh3gh.png"
-      },
-      "team_b": {
-        "name": "يلماي سيمي",
-        "code_name": "SPS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VmBbJrKKekEd-3LLZIO7K.png"
-      },
-      "score": {
-        "team_a": 1,
-        "team_b": 1
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "فوتبول أكاديمي ستاديوم"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 18:00:00",
-      "last_updated_at": "2026-07-09 21:22:11",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "ديلا جوري",
-        "code_name": "DIG",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HGxp0Vx0Ob-g0kxguxZxD.png"
-      },
-      "team_b": {
-        "name": "فيرتوس أكوفيفا",
-        "code_name": "VIA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/UfJuzXb5fRnftFlkyhYy0.png"
-      },
-      "score": {
-        "team_a": 3,
-        "team_b": 1
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "Tengiz Burjanadze Stadium"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 18:00:00",
-      "last_updated_at": "2026-07-09 20:55:35",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "إل. ميتالورجس",
-        "code_name": "LIE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yJ-noIuVJd9RlMvUzERlT.png"
-      },
-      "team_b": {
-        "name": "ديتشيتش توزي",
-        "code_name": "DET",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VgY3phJeomAM_2h1uwFgn.png"
-      },
-      "score": {
-        "team_a": 1,
-        "team_b": 0
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "سكونتو"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 18:00:00",
-      "last_updated_at": "2026-07-09 20:13:37",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "هيغيلمان ليتواين",
-        "code_name": "HEG",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kacAAQVX-IMjv8wfjDvGZ.png"
-      },
-      "team_b": {
-        "name": "بايد",
-        "code_name": "PAI",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/O1HUJvIPTYGl5_1iraHRP.png"
-      },
-      "score": {
-        "team_a": 1,
-        "team_b": 1
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "Raudondvario stadionas"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 18:00:00",
-      "last_updated_at": "2026-07-09 19:51:43",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "كاليو نوم",
-        "code_name": "NJK",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BOiDMOuIdviroNQ_ML_Zr.png"
-      },
-      "team_b": {
-        "name": "ليتفيلد",
-        "code_name": "LIN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/g140ybRmG0AW56cOdpB3_.png"
-      },
-      "score": {
-        "team_a": 1,
-        "team_b": 0
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "Hiiu Stadium"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 19:00:00",
-      "last_updated_at": "2026-07-09 21:00:00",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "بوهيميانز",
-        "code_name": "BOH",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SR4e9Szns2VshaDO4IVZx.png"
-      },
-      "team_b": {
-        "name": "St Joseph's",
-        "code_name": "STJ",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7j7QZqGLgEZIPEYQk_P2X.png"
-      },
-      "score": {
-        "team_a": 2,
-        "team_b": 0
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "Dalymount Park"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 19:00:00",
-      "last_updated_at": "2026-07-09 20:55:37",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "دينامو مينسك",
-        "code_name": "MIN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IUE-AsqRO9TW-LQBZ-91f.png"
-      },
-      "team_b": {
-        "name": "إف ك سيليكس",
-        "code_name": "FKS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eTrGh4xpR_zFH0O8gtw0V.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 1
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "Beroe"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 19:00:00",
-      "last_updated_at": "2026-07-09 20:58:49",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "فيليز موستار",
-        "code_name": "VEM",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xI0yz3O8zVPuQvbkIT96m.png"
-      },
-      "team_b": {
-        "name": "إف سي ميلسامي أورهاي",
-        "code_name": "MIO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NrWvo_XSFhXk1XUUPK-hI.png"
-      },
-      "score": {
-        "team_a": 1,
-        "team_b": 1
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "Stadion Rodeni"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 19:00:00",
-      "last_updated_at": "2026-07-09 20:53:31",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "مارساكسلوك إف سي",
-        "code_name": "MFC",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c9Bp-J4ti7_l8j_DWC6zW.png"
-      },
-      "team_b": {
-        "name": "بايونيك",
-        "code_name": "PYU",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oH_qimFCxhqHXufUbYyrU.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 3
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "Cementarnica Stadium"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 19:15:00",
-      "last_updated_at": "2026-07-09 21:09:42",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "موندورف لي بيانز",
-        "code_name": "MON",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eeGU-G9qtj__vOuhI_Vvk.png"
-      },
-      "team_b": {
-        "name": "دينامو تبليسي",
-        "code_name": "DTB",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9-pRjAcP0BRnIpeS8HHqo.png"
-      },
-      "score": {
-        "team_a": 1,
-        "team_b": 2
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "Stade Achille Hammerel"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 19:30:00",
-      "last_updated_at": "2026-07-09 21:23:37",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "كارنافون",
-        "code_name": "CAE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/F4c4SLQyxX3zl5LyuCPA_.png"
-      },
-      "team_b": {
-        "name": "فسي ليفاديا",
-        "code_name": "FCI",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Hgi40JZD-OOyNLVxfRli8.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 5
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "The Oval"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 19:30:00",
-      "last_updated_at": "2026-07-09 21:25:07",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "كولج أوروبا",
-        "code_name": "CE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5Qe5JMv8UQ1Sz-pUHQb6M.png"
-      },
-      "team_b": {
-        "name": "شكينديا 79",
-        "code_name": "S79",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/UhH-2ci_jg_nxzFOFleWx.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 5
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "فيكتوريا ستاديوم"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 20:00:00",
-      "last_updated_at": "2026-07-09 21:54:28",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "فلازينا",
-        "code_name": "VLL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gDbhOaOEhEzfgVKWzWbta.png"
-      },
-      "team_b": {
-        "name": "Malisheva",
-        "code_name": "MAL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yHlKopv5MvcvcXs6MlRpW.png"
-      },
-      "score": {
-        "team_a": 2,
-        "team_b": 1
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "Stadiumi Loro Borici"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 20:30:00",
-      "last_updated_at": "2026-07-09 22:21:49",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "جلينتوران",
-        "code_name": "GLE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ee5TQXfbdJ14Ob7A5Ol2g.png"
-      },
-      "team_b": {
-        "name": "ريجاس فوتبولا سكولا",
-        "code_name": "آر إف إس",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/We6mdGEqtAOhKCtzlWZHP.png"
-      },
-      "score": {
-        "team_a": 1,
-        "team_b": 2
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "The Oval"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 20:45:00",
-      "last_updated_at": "2026-07-09 22:36:43",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "رانافيك",
-        "code_name": "RUN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/i0S1X1oxB6_ZTdtp1Iicw.png"
-      },
-      "team_b": {
-        "name": "هامرون سبارتانز",
-        "code_name": "HAS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ome2McdofVRaxp6_opPzV.png"
-      },
-      "score": {
-        "team_a": 1,
-        "team_b": 1
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "Runavik Stadium"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 20:45:00",
-      "last_updated_at": "2026-07-09 22:42:04",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "بينيبونت",
-        "code_name": "PEN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nwZ_B4j1GZTlebxbfMOd7.png"
-      },
-      "team_b": {
-        "name": "إف سي سانتا كولومبا",
-        "code_name": "COL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/V1WRnGlP85k_RJcTDyxn8.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 1
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "ملعب كارديف سيتي"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 20:45:00",
-      "last_updated_at": "2026-07-09 22:42:06",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "بيتروفاك",
-        "code_name": "PET",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DOnr41688rMXQN-H_Xy5x.png"
-      },
-      "team_b": {
-        "name": "زالجيريس فيلنيوس",
-        "code_name": "ZAL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jOUBxh4_FIfPflIgttpn2.png"
-      },
-      "score": {
-        "team_a": 1,
-        "team_b": 3
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "ستاديون بود غوريكوم"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 21:00:00",
-      "last_updated_at": "2026-07-09 23:01:39",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "دينامو تيرانا",
-        "code_name": "DIC",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Qlo2m2qGROuyKerDZqxkF.png"
-      },
-      "team_b": {
-        "name": "لوكوموتيف آستانا",
-        "code_name": "FCA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/v6PtcJvEK8X8m_uon-R0s.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 1
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "إلباسان أرينا"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 21:00:00",
-      "last_updated_at": "2026-07-09 22:55:59",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "إف ك ساراييفو",
-        "code_name": "SAR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YNnmGx6QsK5BBx8dMFyUk.png"
-      },
-      "team_b": {
-        "name": "إف سي إنتر توركو",
+        "name": "انتر توركو II",
         "code_name": "INT",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DAsSnduQb_i5-IYlLoFmB.png"
-      },
-      "score": {
-        "team_a": 1,
-        "team_b": 1
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "Asim Ferhatovic Hase"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 21:00:00",
-      "last_updated_at": "2026-07-09 22:56:01",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "ستيارنان",
-        "code_name": "STJ",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hOVoLol_fCmhvT1ixo_Un.png"
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YFrwQolnGKQChIDm-vXnb.png"
       },
       "team_b": {
-        "name": "فايكينجور",
-        "code_name": "VIK",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1UFZlg2WuCebslKNg_PNV.png"
+        "name": "روفانيمي",
+        "code_name": "ROV",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/tzZBcLuXZtu9hZnC2AFCp.png"
       },
       "score": {
-        "team_a": 3,
-        "team_b": 1
-      },
-      "tv_channels": [],
-      "venue": {
-        "name": "Stjoernuvoellur"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 15:00:00",
-      "last_updated_at": "2026-07-09 17:01:53",
-      "competition": "وديات الأندية",
-      "round": null,
-      "team_a": {
-        "name": "رين",
-        "code_name": "رين",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AqqrolqK0FEQK6xmR0GM1.png"
-      },
-      "team_b": {
-        "name": "كاين",
-        "code_name": "SMC",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/C44UbjvhLZ2me0qB9oVne.png"
-      },
-      "score": {
-        "team_a": 1,
-        "team_b": 2
+        "team_a": null,
+        "team_b": null
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "RESULT",
-      "start_date_egypt": "2026-07-09 18:45:00",
-      "last_updated_at": "2026-07-09 20:36:57",
-      "competition": "وديات الأندية",
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 17:30:00",
+      "last_updated_at": "2026-02-01 11:56:34",
+      "competition": "الدوري الفنلندي الدرجة الثالثة",
       "round": null,
       "team_a": {
-        "name": "شيمينتز",
-        "code_name": "CHE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pib4CJhmortFCz8096DPK.png"
+        "name": "تامبير",
+        "code_name": "TAM",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/h5KuDqY2fdH8vdf-v1bt0.png"
       },
       "team_b": {
-        "name": "أونيون برلين",
-        "code_name": "أونيون برلين",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/L23XBxLVG-r2wXOUzV1QT.png"
+        "name": "سالبا",
+        "code_name": "SAL",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PbxmmkC9FYYnM9omXPzK8.png"
       },
       "score": {
-        "team_a": 1,
-        "team_b": 1
+        "team_a": null,
+        "team_b": null
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
-      "start_date_egypt": "2026-07-10 02:00:00",
-      "last_updated_at": "2026-07-10 02:02:41",
-      "competition": "الدوري البوليفي",
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 17:30:00",
+      "last_updated_at": "2026-02-01 11:37:16",
+      "competition": "الدوري الفنلندي الدرجة الثانية",
       "round": null,
       "team_a": {
-        "name": "ناسيونال باتوسي",
-        "code_name": "NAP",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgYLpdPhfeRHCmCwlz4Vh.png"
+        "name": "كوتيبي",
+        "code_name": "KTP",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/abyYn84-yPqZaGkPjAGJp.png"
       },
       "team_b": {
-        "name": "أورورا",
-        "code_name": "AUR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qvLiYtw1e6oDCeWovnZDW.png"
+        "name": "جابس",
+        "code_name": "JPS",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kLSjahgJDguQOFZJ3KRIR.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 18:00:00",
+      "last_updated_at": "2026-02-01 11:37:16",
+      "competition": "الدوري الفنلندي الدرجة الثانية",
+      "round": null,
+      "team_a": {
+        "name": "ب ك 35",
+        "code_name": "PK3",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Rblq20eyKVf8W4TWBJHTk.png"
+      },
+      "team_b": {
+        "name": "كابا",
+        "code_name": "KAP",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iIIEqyzNKbqf4VyMjQwAa.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 21:15:00",
+      "last_updated_at": "2026-03-08 13:05:24",
+      "competition": "الدوري الأيسلندي الدرجة الثانية",
+      "round": null,
+      "team_a": {
+        "name": "آيجير",
+        "code_name": "AEG",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/z_dCeGsqC-fUljXRK2YYU.png"
+      },
+      "team_b": {
+        "name": "إتش ك",
+        "code_name": "HKK",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3u4HVZ9OfpbW4kNpvYgIh.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 21:15:00",
+      "last_updated_at": "2026-03-08 13:05:24",
+      "competition": "الدوري الأيسلندي الدرجة الثانية",
+      "round": null,
+      "team_a": {
+        "name": "آي آر رايكيافيك",
+        "code_name": "IRR",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FZFp0EydPWrPJ82OoUiHG.png"
+      },
+      "team_b": {
+        "name": "ثروتر",
+        "code_name": "THR",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/81tQ19ZinxAQZNNThkaAS.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 21:15:00",
+      "last_updated_at": "2026-03-08 13:05:24",
+      "competition": "الدوري الأيسلندي الدرجة الثانية",
+      "round": null,
+      "team_a": {
+        "name": "لايكنر آر",
+        "code_name": "LER",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uHzwW5yDBxVwByUXj2NJj.png"
+      },
+      "team_b": {
+        "name": "غروتا",
+        "code_name": "GRO",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AHGylrattUC3itlctZ1BQ.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 21:15:00",
+      "last_updated_at": "2026-03-08 13:05:24",
+      "competition": "الدوري الأيسلندي الدرجة الثانية",
+      "round": null,
+      "team_a": {
+        "name": "نياردفيك",
+        "code_name": "NJA",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JYcQ0Ochaz7UFEfZ492nT.png"
+      },
+      "team_b": {
+        "name": "جريندافيك",
+        "code_name": "GRI",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LTy_w5x72_CesGRN2oBRq.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 20:45:00",
+      "last_updated_at": "2025-12-16 14:43:19",
+      "competition": "الدوري الأيرلندي الدرجة الأولى",
+      "round": null,
+      "team_a": {
+        "name": "آثلون",
+        "code_name": "ATH",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Ie5vLxTpCOyCe65M26VwN.png"
+      },
+      "team_b": {
+        "name": "سوب رامبلرز",
+        "code_name": "COB",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/z5wbB4ofEZmWBCqgvvk1Y.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 20:45:00",
+      "last_updated_at": "2025-12-16 14:43:19",
+      "competition": "الدوري الأيرلندي الدرجة الأولى",
+      "round": null,
+      "team_a": {
+        "name": "براي واندررز",
+        "code_name": "BRA",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KZvNeV_UnTIrK4cISuA_V.png"
+      },
+      "team_b": {
+        "name": "يو سي دبلن إف سي",
+        "code_name": "UCD",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LsW46EpwrZ9oBfpdTUtlL.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 20:45:00",
+      "last_updated_at": "2025-12-16 14:43:19",
+      "competition": "الدوري الأيرلندي الدرجة الأولى",
+      "round": null,
+      "team_a": {
+        "name": "كورك سيتي",
+        "code_name": "COR",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3sfmBpu-jW2Kl6q6Crni7.png"
+      },
+      "team_b": {
+        "name": "لونجفورد",
+        "code_name": "LON",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/peJPxDiazpXJshLaW5ezh.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 20:45:00",
+      "last_updated_at": "2025-12-16 14:43:19",
+      "competition": "الدوري الأيرلندي الدرجة الأولى",
+      "round": null,
+      "team_a": {
+        "name": "فين هاربس",
+        "code_name": "FHA",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CHdWSwpXvM65B_t2zTCSc.png"
+      },
+      "team_b": {
+        "name": "تريتي يونايتد",
+        "code_name": "TRE",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0OZWWxBILJKYQ1oWxDNea.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 20:45:00",
+      "last_updated_at": "2025-12-16 14:43:19",
+      "competition": "الدوري الأيرلندي الدرجة الأولى",
+      "round": null,
+      "team_a": {
+        "name": "ويكسفورد يوثس",
+        "code_name": "WEX",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CBH5-l6p1-Ymo39_FiqrK.png"
+      },
+      "team_b": {
+        "name": "كيري",
+        "code_name": "KER",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SD6_CJi7IRh6rWRrLZFaG.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 20:45:00",
+      "last_updated_at": "2026-02-06 08:11:17",
+      "competition": "الدوري الأيرلندي الممتاز",
+      "round": null,
+      "team_a": {
+        "name": "دونداك",
+        "code_name": "DUN",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KszoAWmCkgcqkEuxiwjh5.png"
+      },
+      "team_b": {
+        "name": "دروجيدا",
+        "code_name": "DRO",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mwjKKNHB2VU374WXyTO2t.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": {
+        "name": "Oriel Park"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 21:00:00",
+      "last_updated_at": "2026-06-19 16:58:05",
+      "competition": "الدوري الأيرلندي الممتاز",
+      "round": null,
+      "team_a": {
+        "name": "واترفورد",
+        "code_name": "WAT",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4qm0SpjDRlMC-GsbhYtDd.png"
+      },
+      "team_b": {
+        "name": "سانت باتريكس",
+        "code_name": "STP",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N9hmdGkMk1O07xI9K1DPB.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": {
+        "name": "Waterford RSC"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 12:30:00",
+      "last_updated_at": "2026-02-12 08:54:20",
+      "competition": "الدوري الكوري الجنوبي الدرجة الثانية",
+      "round": null,
+      "team_a": {
+        "name": "تشيونان سيتي",
+        "code_name": "CHC",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8BxaqpBVPNxw22b0xONcL.png"
+      },
+      "team_b": {
+        "name": "جيمهاي",
+        "code_name": "GIM",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eaUDc7RtDaF_qAHsQPWVa.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 12:30:00",
+      "last_updated_at": "2026-01-26 10:05:53",
+      "competition": "الدوري الكوري الجنوبي الدرجة الثانية",
+      "round": null,
+      "team_a": {
+        "name": "سوون سيتي",
+        "code_name": "SUC",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FDGlJG7oPXDY5GrK1I1sY.png"
+      },
+      "team_b": {
+        "name": "تشونام دراغونز",
+        "code_name": "JDF",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/73WU03SanTkYjb3yl8T_X.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-10 12:00:00",
+      "last_updated_at": "2026-02-25 09:28:32",
+      "competition": "الدوري الكوري الجنوبي الدرجة الثالثة",
+      "round": null,
+      "team_a": {
+        "name": "اولسان سيتيزن",
+        "code_name": "ULS",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/OV4Q0253IiAQuR5MZBCva.png"
+      },
+      "team_b": {
+        "name": "يوجو سيتيزن",
+        "code_name": "YEO",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vdPAkmxyEZOBgBEJliU64.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-11 00:00:00",
+      "last_updated_at": "2026-07-02 23:07:22",
+      "competition": "دوري أوروجواي الممتاز",
+      "round": null,
+      "team_a": {
+        "name": "ديبورتيفو مالدونادو",
+        "code_name": "MAL",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NkPNACmQsASu9SvG2ZTHp.png"
+      },
+      "team_b": {
+        "name": "ألبيون أف سي",
+        "code_name": "ALB",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/55gk3y9pyjnpck475gqm285bk.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
       },
       "tv_channels": [],
       "venue": null
