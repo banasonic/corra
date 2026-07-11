@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-07-11 02:03:07",
+  "fetched_at_egypt": "2026-07-11 05:54:58",
   "matches_count": 51,
   "matches": [
     {
@@ -29,9 +29,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-11 02:00:00",
-      "last_updated_at": "2026-07-11 01:20:46",
+      "last_updated_at": "2026-07-11 04:12:30",
       "competition": "الدوري الأمريكي للسيدات",
       "round": null,
       "team_a": {
@@ -45,39 +45,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fqIDkA4Sa_IhXl9nTXehQ.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-11 02:00:00",
-      "last_updated_at": "2026-07-11 01:21:20",
-      "competition": "الدوري الأمريكي للسيدات",
-      "round": null,
-      "team_a": {
-        "name": "اورلاندو بريد",
-        "code_name": "ORL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Q7NvV1QMOZiT9DkSVVlrU.png"
-      },
-      "team_b": {
-        "name": "كانساس سيتي",
-        "code_name": "KAN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TbJHiNOTwTTiFsjoOJgvf.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-07-11 02:00:00",
-      "last_updated_at": "2026-07-11 01:14:14",
+      "last_updated_at": "2026-07-11 04:11:13",
       "competition": "الدوري الأمريكي للسيدات",
       "round": null,
       "team_a": {
@@ -91,16 +68,39 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eka22bj7co8bw5qxa6qlbinf8.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
+      "start_date_egypt": "2026-07-11 03:00:00",
+      "last_updated_at": "2026-07-11 05:01:15",
+      "competition": "الدوري الأمريكي للسيدات",
+      "round": null,
+      "team_a": {
+        "name": "اورلاندو بريد",
+        "code_name": "ORL",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Q7NvV1QMOZiT9DkSVVlrU.png"
+      },
+      "team_b": {
+        "name": "كانساس سيتي",
+        "code_name": "KAN",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TbJHiNOTwTTiFsjoOJgvf.png"
+      },
+      "score": {
+        "team_a": 3,
+        "team_b": 0
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "LIVE",
       "start_date_egypt": "2026-07-11 04:00:00",
-      "last_updated_at": "2026-01-30 08:35:12",
+      "last_updated_at": "2026-07-11 05:42:54",
       "competition": "الدوري الأمريكي للسيدات",
       "round": null,
       "team_a": {
@@ -114,8 +114,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PwL7G0xJg9lQKMDTVKvpw.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 3
       },
       "tv_channels": [],
       "venue": null
@@ -585,7 +585,7 @@
     {
       "status": "RESULT",
       "start_date_egypt": "2026-07-11 00:00:00",
-      "last_updated_at": "2026-07-11 01:56:39",
+      "last_updated_at": "2026-07-11 02:06:34",
       "competition": "الدوري البرازيلي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -606,9 +606,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-11 01:00:00",
-      "last_updated_at": "2026-07-11 01:54:32",
+      "last_updated_at": "2026-07-11 03:16:28",
       "competition": "الدوري البرازيلي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -622,8 +622,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JPB4vWQuCKT565Cx30AjS.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 2
+        "team_a": 3,
+        "team_b": 3
       },
       "tv_channels": [],
       "venue": null
@@ -656,7 +656,7 @@
     {
       "status": "RESULT",
       "start_date_egypt": "2026-07-11 00:00:00",
-      "last_updated_at": "2026-07-11 02:02:37",
+      "last_updated_at": "2026-07-11 02:08:39",
       "competition": "الدوري الإكوادوري",
       "round": null,
       "team_a": {
@@ -677,9 +677,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-11 02:15:00",
-      "last_updated_at": "2026-07-02 12:04:39",
+      "last_updated_at": "2026-07-11 04:37:11",
       "competition": "الدوري الإكوادوري",
       "round": null,
       "team_a": {
@@ -693,8 +693,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EffTjr4H4xPZ_6YOQGwPe.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
@@ -1168,7 +1168,7 @@
     {
       "status": "RESULT",
       "start_date_egypt": "2026-07-11 00:00:00",
-      "last_updated_at": "2026-07-11 01:57:53",
+      "last_updated_at": "2026-07-11 02:21:18",
       "competition": "دوري أوروجواي الممتاز",
       "round": null,
       "team_a": {
