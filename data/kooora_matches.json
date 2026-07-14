@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-07-14 14:50:39",
+  "fetched_at_egypt": "2026-07-14 16:57:06",
   "matches_count": 57,
   "matches": [
     {
@@ -48,7 +48,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-07-14 17:00:00",
-      "last_updated_at": "2026-06-23 00:12:23",
+      "last_updated_at": "2026-07-14 15:47:55",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -73,7 +73,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-07-14 18:00:00",
-      "last_updated_at": "2026-06-16 17:24:19",
+      "last_updated_at": "2026-07-14 16:50:51",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -321,9 +321,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-14 16:00:00",
-      "last_updated_at": "2026-07-14 08:24:36",
+      "last_updated_at": "2026-07-14 16:49:07",
       "competition": "وديات الأندية",
       "round": null,
       "team_a": {
@@ -337,8 +337,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zHb54OOXSUT6oXQV66fNq.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
@@ -873,9 +873,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-14 13:35:00",
-      "last_updated_at": "2026-07-14 14:46:30",
+      "last_updated_at": "2026-07-14 15:35:19",
       "competition": "دوري السوبر الصيني",
       "round": null,
       "team_a": {
@@ -889,8 +889,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ABFXJ0uAAD0cWNt6dpKbq.png"
       },
       "score": {
-        "team_a": 2,
-        "team_b": 0
+        "team_a": 3,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": {
