@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-07-15 14:54:58",
+  "fetched_at_egypt": "2026-07-15 16:56:27",
   "matches_count": 52,
   "matches": [
     {
@@ -146,9 +146,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-15 16:30:00",
-      "last_updated_at": "2026-07-13 18:44:41",
+      "last_updated_at": "2026-07-15 16:31:12",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -162,8 +162,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gDbhOaOEhEzfgVKWzWbta.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": {
@@ -242,9 +242,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-15 14:00:00",
-      "last_updated_at": "2026-07-15 14:50:49",
+      "last_updated_at": "2026-07-15 16:52:49",
       "competition": "وديات الأندية",
       "round": null,
       "team_a": {
@@ -258,16 +258,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/u-zaoAeGnj8Vsn-OFcgz4.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 2,
         "team_b": 0
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-15 15:00:00",
-      "last_updated_at": "2026-07-08 16:24:40",
+      "last_updated_at": "2026-07-15 16:53:37",
       "competition": "وديات الأندية",
       "round": null,
       "team_a": {
@@ -281,8 +281,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pmOx2KyUQyiYesvjsQsg1.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 3
       },
       "tv_channels": [],
       "venue": null
@@ -450,8 +450,8 @@
     },
     {
       "status": "FIXTURE",
-      "start_date_egypt": "2026-07-16 04:00:00",
-      "last_updated_at": "2026-07-12 08:36:29",
+      "start_date_egypt": "2026-07-16 03:30:00",
+      "last_updated_at": "2026-07-15 14:58:20",
       "competition": "وديات الأندية",
       "round": null,
       "team_a": {
@@ -1185,9 +1185,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-15 12:30:00",
-      "last_updated_at": "2026-07-15 14:48:59",
+      "last_updated_at": "2026-07-15 15:06:51",
       "competition": "كأس كوريا الجنوبية",
       "round": null,
       "team_a": {
@@ -1202,7 +1202,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
