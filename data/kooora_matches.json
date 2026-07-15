@@ -1,12 +1,12 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-07-15 21:47:38",
+  "fetched_at_egypt": "2026-07-15 23:05:04",
   "matches_count": 52,
   "matches": [
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-15 21:00:00",
-      "last_updated_at": "2026-07-15 21:45:26",
+      "last_updated_at": "2026-07-15 23:03:02",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -20,27 +20,10 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/OHPtR_kQRYo8g4rh6W1Jf.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 1,
+        "team_b": 2
       },
-      "tv_channels": [
-        {
-          "name": "beIN Sports MENA Max 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/30lIISGKsazDg65k9cKdD.png"
-        },
-        {
-          "name": "beIN Sports MENA Max 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Xxq7GmQOQL6EqKX4fKmzQ.png"
-        },
-        {
-          "name": "beIN Sports MENA Max 3",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/qoKRuvggw5NGB4b5bE_DY.png"
-        },
-        {
-          "name": "beIN Sports MENA Max 4",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ptBkW5mCMwCna3Bsc_yPL.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "مرسيدس بنز"
       }
@@ -71,9 +54,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-15 20:15:00",
-      "last_updated_at": "2026-07-15 21:32:57",
+      "last_updated_at": "2026-07-15 22:09:59",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -96,9 +79,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-15 21:00:00",
-      "last_updated_at": "2026-07-15 21:45:22",
+      "last_updated_at": "2026-07-15 22:51:25",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -112,8 +95,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3zNiWx_4m_Butk0WtrA9S.png"
       },
       "score": {
-        "team_a": 3,
-        "team_b": 0
+        "team_a": 6,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": {
@@ -121,9 +104,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-15 21:00:00",
-      "last_updated_at": "2026-07-15 21:45:52",
+      "last_updated_at": "2026-07-15 22:51:28",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -138,7 +121,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": {
@@ -171,9 +154,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-15 20:30:00",
-      "last_updated_at": "2026-07-15 21:32:37",
+      "last_updated_at": "2026-07-15 22:23:10",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -188,7 +171,7 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 1
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": {
@@ -294,14 +277,14 @@
       "competition": "وديات الأندية",
       "round": null,
       "team_a": {
-        "name": "بوخوم",
-        "code_name": "BOC",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qwhqIg6jBXEyOvtteBQGG.png"
-      },
-      "team_b": {
         "name": "أياكس",
         "code_name": "أياكس",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ekYAK9HhpnfV1PbrNKteT.png"
+      },
+      "team_b": {
+        "name": "بوخوم",
+        "code_name": "BOC",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qwhqIg6jBXEyOvtteBQGG.png"
       },
       "score": {
         "team_a": 1,
@@ -428,7 +411,7 @@
     {
       "status": "RESULT",
       "start_date_egypt": "2026-07-15 19:30:00",
-      "last_updated_at": "2026-07-15 21:25:59",
+      "last_updated_at": "2026-07-15 22:51:32",
       "competition": "وديات الأندية",
       "round": null,
       "team_a": {
