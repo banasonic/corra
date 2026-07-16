@@ -1,7 +1,7 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-07-16 13:05:59",
-  "matches_count": 66,
+  "fetched_at_egypt": "2026-07-16 15:04:11",
+  "matches_count": 67,
   "matches": [
     {
       "status": "FIXTURE",
@@ -406,7 +406,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-07-16 19:00:00",
-      "last_updated_at": "2026-06-23 00:38:11",
+      "last_updated_at": "2026-07-16 12:39:56",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -425,7 +425,7 @@
       },
       "tv_channels": [],
       "venue": {
-        "name": "بوريسوف أرينا"
+        "name": "Mehdi Huseynzade"
       }
     },
     {
@@ -945,9 +945,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-16 14:00:00",
-      "last_updated_at": "2026-06-23 09:48:57",
+      "last_updated_at": "2026-07-16 14:53:21",
       "competition": "وديات الأندية",
       "round": null,
       "team_a": {
@@ -959,6 +959,29 @@
         "name": "فيبورغ",
         "code_name": "VFF",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/twxOXxobIcTwylJxo3bnG.png"
+      },
+      "score": {
+        "team_a": 1,
+        "team_b": 1
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-16 18:30:00",
+      "last_updated_at": "2026-07-16 12:35:52",
+      "competition": "وديات الأندية",
+      "round": null,
+      "team_a": {
+        "name": "فاينر نيوشتاد",
+        "code_name": "NEU",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8XGgt92qRnPbNXHlnDZq3.png"
+      },
+      "team_b": {
+        "name": "كوينز بارك رينجرز",
+        "code_name": "QPR",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3sHj-Nw7mSQ0OXPOu6uTh.png"
       },
       "score": {
         "team_a": null,
@@ -1524,9 +1547,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-16 15:00:00",
-      "last_updated_at": "2026-07-10 13:19:15",
+      "last_updated_at": "2026-07-16 15:01:07",
       "competition": "الدوري التنزاني الممتاز - ملحق الصعود والهبوط",
       "round": null,
       "team_a": {
@@ -1540,8 +1563,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fja1uPUqrepwTcP_yxZNn.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
