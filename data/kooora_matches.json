@@ -1,12 +1,12 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-07-19 23:28:47",
+  "fetched_at_egypt": "2026-07-20 00:29:46",
   "matches_count": 64,
   "matches": [
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-19 21:00:00",
-      "last_updated_at": "2026-07-19 23:20:51",
+      "last_updated_at": "2026-07-20 00:02:07",
       "competition": "كأس العالم",
       "round": null,
       "team_a": {
@@ -20,27 +20,10 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/OHPtR_kQRYo8g4rh6W1Jf.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 0
       },
-      "tv_channels": [
-        {
-          "name": "beIN Sports MENA Max 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/30lIISGKsazDg65k9cKdD.png"
-        },
-        {
-          "name": "beIN Sports MENA Max 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Xxq7GmQOQL6EqKX4fKmzQ.png"
-        },
-        {
-          "name": "beIN Sports MENA Max 3",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/qoKRuvggw5NGB4b5bE_DY.png"
-        },
-        {
-          "name": "beIN Sports MENA Max 4",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ptBkW5mCMwCna3Bsc_yPL.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "ميتلايف"
       }
@@ -48,7 +31,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-07-20 01:00:00",
-      "last_updated_at": "2026-01-30 08:35:12",
+      "last_updated_at": "2026-07-20 00:21:31",
       "competition": "الدوري الأمريكي للسيدات",
       "round": null,
       "team_a": {
@@ -439,9 +422,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-19 23:45:00",
-      "last_updated_at": "2026-07-09 07:02:50",
+      "last_updated_at": "2026-07-19 23:58:12",
       "competition": "الدوري الإكوادوري",
       "round": null,
       "team_a": {
@@ -455,8 +438,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dY_NXdBZ89uXaSInqEX3i.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
