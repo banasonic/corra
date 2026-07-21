@@ -1,7 +1,7 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-07-21 09:34:56",
-  "matches_count": 81,
+  "fetched_at_egypt": "2026-07-21 12:06:49",
+  "matches_count": 82,
   "matches": [
     {
       "status": "FIXTURE",
@@ -497,6 +497,29 @@
     },
     {
       "status": "FIXTURE",
+      "start_date_egypt": "2026-07-21 18:00:00",
+      "last_updated_at": "2026-07-21 09:22:14",
+      "competition": "وديات الأندية",
+      "round": null,
+      "team_a": {
+        "name": "سوانسي سيتي",
+        "code_name": "SWA",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hXCTQr4Zcnzo5BmL7CB7L.png"
+      },
+      "team_b": {
+        "name": "بوخوم",
+        "code_name": "BOC",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qwhqIg6jBXEyOvtteBQGG.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
       "start_date_egypt": "2026-07-21 18:30:00",
       "last_updated_at": "2026-07-09 12:16:34",
       "competition": "وديات الأندية",
@@ -749,9 +772,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-21 11:30:00",
-      "last_updated_at": "2026-06-27 11:15:12",
+      "last_updated_at": "2026-07-21 11:30:29",
       "competition": "كأس أستراليا",
       "round": null,
       "team_a": {
@@ -765,16 +788,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/tcQ2qOXbHT3wYGtPslgHy.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-21 11:30:00",
-      "last_updated_at": "2026-06-27 11:15:12",
+      "last_updated_at": "2026-07-21 11:54:12",
       "competition": "كأس أستراليا",
       "round": null,
       "team_a": {
@@ -788,16 +811,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sNhjwNfG8L5dVTq2mWROg.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-21 12:00:00",
-      "last_updated_at": "2026-06-27 11:15:12",
+      "last_updated_at": "2026-07-21 12:02:39",
       "competition": "كأس أستراليا",
       "round": null,
       "team_a": {
@@ -811,8 +834,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
@@ -958,9 +981,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-21 10:00:00",
-      "last_updated_at": "2026-07-20 15:46:31",
+      "last_updated_at": "2026-07-21 12:04:14",
       "competition": "كأس الصين",
       "round": null,
       "team_a": {
@@ -974,8 +997,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/g1A-6U_JeFw7qZEvPKTwf.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
@@ -1742,7 +1765,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-07-21 12:30:00",
-      "last_updated_at": "2026-01-15 12:41:25",
+      "last_updated_at": "2026-07-21 11:50:00",
       "competition": "الدوري الكوري الجنوبي",
       "round": null,
       "team_a": {
@@ -1767,7 +1790,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-07-21 12:30:00",
-      "last_updated_at": "2026-01-15 12:41:25",
+      "last_updated_at": "2026-07-21 11:56:11",
       "competition": "الدوري الكوري الجنوبي",
       "round": null,
       "team_a": {
@@ -1792,7 +1815,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-07-21 12:30:00",
-      "last_updated_at": "2026-01-15 12:41:25",
+      "last_updated_at": "2026-07-21 12:02:25",
       "competition": "الدوري الكوري الجنوبي",
       "round": null,
       "team_a": {
