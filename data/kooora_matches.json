@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-07-22 06:50:27",
+  "fetched_at_egypt": "2026-07-22 09:37:15",
   "matches_count": 93,
   "matches": [
     {
@@ -507,36 +507,6 @@
       "competition": "الدوري الأمريكي",
       "round": null,
       "team_a": {
-        "name": "أوستن",
-        "code_name": "أوستين",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/UO1_wzoKF8NzyN3OVTmqC.png"
-      },
-      "team_b": {
-        "name": "سياتل ساوندرز",
-        "code_name": "ساوندرز",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iju_-94JIOiHTSVh4Nqgh.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_channels": [
-        {
-          "name": "Apple TV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/DE3bSPZJJIUrg0qbzj6Ry9eRVveZ8LIJhKEsMJ4V.jpg"
-        }
-      ],
-      "venue": {
-        "name": "كيو تو"
-      }
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-07-23 02:30:00",
-      "last_updated_at": "2025-11-23 15:00:06",
-      "competition": "الدوري الأمريكي",
-      "round": null,
-      "team_a": {
         "name": "هيوستن دينامو",
         "code_name": "هيوستن دينامو",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jeh4F4XSPlDnZ7BnKf47E.png"
@@ -618,6 +588,36 @@
       ],
       "venue": {
         "name": "سبورتنج بارك"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-07-23 02:30:00",
+      "last_updated_at": "2025-11-23 15:00:06",
+      "competition": "الدوري الأمريكي",
+      "round": null,
+      "team_a": {
+        "name": "أوستن",
+        "code_name": "أوستين",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/UO1_wzoKF8NzyN3OVTmqC.png"
+      },
+      "team_b": {
+        "name": "سياتل ساوندرز",
+        "code_name": "ساوندرز",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iju_-94JIOiHTSVh4Nqgh.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_channels": [
+        {
+          "name": "Apple TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/DE3bSPZJJIUrg0qbzj6Ry9eRVveZ8LIJhKEsMJ4V.jpg"
+        }
+      ],
+      "venue": {
+        "name": "كيو تو"
       }
     },
     {
