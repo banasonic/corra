@@ -1,7 +1,7 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-07-31 10:18:20",
-  "matches_count": 130,
+  "fetched_at_egypt": "2026-07-31 13:08:57",
+  "matches_count": 129,
   "matches": [
     {
       "status": "FIXTURE",
@@ -132,9 +132,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-07-31 10:30:00",
-      "last_updated_at": "2026-07-30 14:26:05",
+      "last_updated_at": "2026-07-31 12:31:36",
       "competition": "وديات الأندية",
       "round": null,
       "team_a": {
@@ -148,31 +148,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PZtrdHXH-m-ix4-dHYV8w.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-07-31 12:00:00",
-      "last_updated_at": "2026-07-27 12:07:28",
-      "competition": "وديات الأندية",
-      "round": null,
-      "team_a": {
-        "name": "كولن",
-        "code_name": "كولن",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ElZxB_J96MBe8X1MIVM9K.png"
-      },
-      "team_b": {
-        "name": "هيرتا برلين",
-        "code_name": "BSC",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1WUK28z1JYdgyq4zBWYBv.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 3,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
@@ -1060,7 +1037,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-07-31 13:35:00",
-      "last_updated_at": "2026-02-16 22:13:20",
+      "last_updated_at": "2026-07-31 12:45:44",
       "competition": "دوري السوبر الصيني",
       "round": null,
       "team_a": {
@@ -1944,9 +1921,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-07-31 12:00:00",
-      "last_updated_at": "2026-06-26 17:02:53",
+      "last_updated_at": "2026-07-31 13:04:08",
       "competition": "بطولة اتحاد آسيان لكرة القدم",
       "round": null,
       "team_a": {
@@ -1960,8 +1937,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0UfaW7b19pjwQKkcCpzGP.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
