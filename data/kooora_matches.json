@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-08-05 22:11:38",
+  "fetched_at_egypt": "2026-08-05 23:51:16",
   "matches_count": 84,
   "matches": [
     {
@@ -31,7 +31,7 @@
     {
       "status": "RESULT",
       "start_date_egypt": "2026-08-05 20:00:00",
-      "last_updated_at": "2026-08-05 22:03:54",
+      "last_updated_at": "2026-08-05 22:17:56",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -56,7 +56,7 @@
     {
       "status": "RESULT",
       "start_date_egypt": "2026-08-05 20:15:00",
-      "last_updated_at": "2026-08-05 22:07:03",
+      "last_updated_at": "2026-08-05 22:19:32",
       "competition": "التصفيات المؤهلة للدوري الأوروبي",
       "round": null,
       "team_a": {
@@ -104,9 +104,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-05 20:30:00",
-      "last_updated_at": "2026-08-05 21:34:51",
+      "last_updated_at": "2026-08-05 22:26:08",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -123,12 +123,7 @@
         "team_a": 1,
         "team_b": 1
       },
-      "tv_channels": [
-        {
-          "name": "Arena Premium 5",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/AI0IufP0tyc8FWboMlee1.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "أثينا الأولمبي"
       }
@@ -525,9 +520,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-05 20:45:00",
-      "last_updated_at": "2026-08-05 21:48:55",
+      "last_updated_at": "2026-08-05 22:41:02",
       "competition": "وديات الأندية",
       "round": null,
       "team_a": {
@@ -548,9 +543,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-05 21:00:00",
-      "last_updated_at": "2026-08-05 22:08:37",
+      "last_updated_at": "2026-08-05 22:52:08",
       "competition": "وديات الأندية",
       "round": null,
       "team_a": {
@@ -567,20 +562,7 @@
         "team_a": 3,
         "team_b": 0
       },
-      "tv_channels": [
-        {
-          "name": "beIN Sports Mena 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png"
-        },
-        {
-          "name": "beIN Sports FR 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/cdvU6vhjSeJwKtjaSBt3a.png"
-        },
-        {
-          "name": "TOD TV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": null
     },
     {
@@ -747,7 +729,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-06 00:00:00",
-      "last_updated_at": "2026-06-26 14:24:48",
+      "last_updated_at": "2026-08-05 23:46:30",
       "competition": "دوري الدرجة الأولى الأرجنتيني",
       "round": null,
       "team_a": {
@@ -837,9 +819,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-05 21:00:00",
-      "last_updated_at": "2026-08-05 22:06:30",
+      "last_updated_at": "2026-08-05 22:57:19",
       "competition": "الدوري البوليفي",
       "round": null,
       "team_a": {
@@ -908,7 +890,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-06 00:00:00",
-      "last_updated_at": "2026-07-02 11:33:45",
+      "last_updated_at": "2026-08-05 23:19:46",
       "competition": "كأس البرازيل",
       "round": null,
       "team_a": {
@@ -931,7 +913,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-06 00:30:00",
-      "last_updated_at": "2026-07-02 11:33:45",
+      "last_updated_at": "2026-08-05 23:36:22",
       "competition": "كأس البرازيل",
       "round": null,
       "team_a": {
@@ -1322,9 +1304,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-05 21:15:00",
-      "last_updated_at": "2026-08-05 22:02:55",
+      "last_updated_at": "2026-08-05 23:07:24",
       "competition": "الدوري الأيسلندي",
       "round": null,
       "team_a": {
@@ -1338,7 +1320,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hGjTtho_HUD1E9uttvkkz.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 1
       },
       "tv_channels": [],
@@ -1807,9 +1789,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-05 20:30:00",
-      "last_updated_at": "2026-08-05 22:02:18",
+      "last_updated_at": "2026-08-05 22:23:38",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا للسيدات",
       "round": null,
       "team_a": {
@@ -1830,9 +1812,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-05 20:30:00",
-      "last_updated_at": "2026-08-05 22:07:00",
+      "last_updated_at": "2026-08-05 22:59:17",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا للسيدات",
       "round": null,
       "team_a": {
@@ -1847,15 +1829,15 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 1
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-05 21:00:00",
-      "last_updated_at": "2026-08-05 22:03:28",
+      "last_updated_at": "2026-08-05 22:52:53",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا للسيدات",
       "round": null,
       "team_a": {
@@ -1869,8 +1851,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "score": {
-        "team_a": 1,
-        "team_b": 0
+        "team_a": 2,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
